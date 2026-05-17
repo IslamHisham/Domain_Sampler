@@ -1,0 +1,17 @@
+safetensors==0.7.0
+scikit-learn==1.7.2
+scipy==1.15.3
+sentence-transformers==5.5.0
+shellingham==1.5.4
+six==1.17.0
+sympy==1.14.0
+threadpoolctl==3.6.0
+tokenizers==0.22.2
+torch==2.12.0
+tqdm==4.67.3
+transformers==5.8.1
+typer==0.25.1
+typing_extensions==4.15.0
+tzdata==2026.2
+umap-learn==0.5.12
+bertopic
