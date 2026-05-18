@@ -31,7 +31,8 @@ nltk.download('stopwords')
 class DomainSampler():
     # downloading the embedding model
     embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2", device="cuda:0")
-
+    #loading the topic modeler
+    topic_model = BERTopic.load("safe_bertopic", embedding_model=embedding_model)
     # getting the stop words to be used later
     global_stop_words_set = set()
     for lang in stopwords.fileids():
@@ -66,7 +67,12 @@ class DomainSampler():
         return math.ceil(n)
     
     def clean_text(self, text: str, stop_words = global_stop_words_set):
-        ''' remove stop words, urls and numbers'''
+        '''
+        remove stop words, urls and numbers to prepare test for topic modeling
+
+        :param text: takes tha extracted article text from HTML
+        :param stop_words: takes the stop words from all languages
+        '''
         if not isinstance(text, str):
             # raise TypeError("text must be a string")
             return ""
@@ -87,24 +93,60 @@ class DomainSampler():
         text = " ".join([ w for w in filtered_tokens if len(w) > 1 ] )
         return text.lower().strip()
     
-    def preprocess_html(self, articles:list[str]):
+    def preprocess_html(self, articles:list)->list[dict]:
+        """
+        Preprocesses the HTML content of articles from a domain and returns all the info and cleaned text.
+
+        :param pop_size: Total number of individuals in the population
+        :param confidence: Confidence level (e.g., 0.95 for 95%)
+        :param margin_error: Acceptable margin of error (e.g., 0.05 for 5%)
+        """        
         articles_text = []
         for response_html in tqdm(articles):
             try:
                 result = json.loads(extract(response_html, with_metadata=True, output_format="json", include_comments=False,
                                             include_tables=False))
+                content = self.clean_text(result["text"])
                 articles_text.append({"title":result["title"],
                         "author":result["author"],
                         "domain_name":result["hostname"],
                         "date":result["date"],
                         "categories": result["categories"],
                         "tags":result["tags"],
-                        "text":self.clean_text(result["text"])})
+                        "text":str(result["title"])+' '+str(result["categories"])+' ' +result["tags"]+' '+content})
             except:
                     soup = BeautifulSoup(response_html, "html.parser")
                     for tag in soup(["script", "style", "noscript"]):
                         tag.decompose()
-                    articles_text.append(self.clean_text(soup.get_text(separator=" ", strip=True)))
+                    articles_text.append({"title":None,
+                        "author":None,
+                        "domain_name":None,
+                        "date":None,
+                        "categories": None,
+                        "tags":None,
+                        "text":self.clean_text(soup.get_text(separator=" ", strip=True))})
+        return articles_text
     
+def topic_analysis(self, urls:list[str], articles:list)-> pd.DataFrame:
+    """
+    Preprocesses the HTML content of articles from a domain and returns topic with their relative urls ordered by 
+    the number of words of their corresponding article content.
+
+    :param urls: list fo the urls sample from limited population theory
+    :param articles: list of articles HTML content
+    """ 
+    cleaned_articles = [art['text'] for art in tqdm(self.preprocess_html(articles))]
+    art_lens = [len(art.split()) for art in cleaned_articles]
+    topics, probs = topic_model.transform(cleaned_articles)
+    analysis_df = pd.DataFrame({'url':urls, 'article_word_num':art_lens, 'topic' : topics, 'prob': probs})
+    # 1. Sort the dataframe by the number of words in ascending order
+    analysis_df = analysis_df.sort_values(by="article_word_num", ascending=True)
+
+    # 2. Group by topic and aggregate the URLs into a list
+    result_df = (
+        analysis_df.groupby("topic")["url"]
+        .apply(list)
+        .reset_index(name="ordered_urls"))
+    return result_df
 
 
