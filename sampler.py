@@ -21,16 +21,17 @@ from sklearn.feature_extraction.text import CountVectorizer
 from bertopic.representation import KeyBERTInspired
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
-
 tqdm.pandas()
-nltk.download('punkt')
-nltk.download('punkt_tab')
-nltk.download('stopwords')
 
 
 class DomainSampler():
-    # downloading the embedding model
+    #Downloading the required NLP preprocessing libararies
+    nltk.download('punkt')
+    nltk.download('punkt_tab')
+    nltk.download('stopwords')
+    # downloading the embedding model for GPU
     #embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2", device="cuda:0")
+    #using the cpu model
     embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
     #loading the topic modeler
     topic_model = BERTopic.load("safe_bertopic", embedding_model=embedding_model)
