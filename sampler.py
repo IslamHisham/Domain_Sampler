@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import random
+import torch
 import numpy as np
 from trafilatura import extract
 import nltk
@@ -21,30 +22,45 @@ from sklearn.feature_extraction.text import CountVectorizer
 from bertopic.representation import KeyBERTInspired
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
+
 tqdm.pandas()
 
 
 class DomainSampler():
-    #Downloading the required NLP preprocessing libararies
+    # getting the stop words to be used later
     nltk.download('punkt')
     nltk.download('punkt_tab')
     nltk.download('stopwords')
-    # downloading the embedding model for GPU
-    #embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2", device="cuda:0")
-    #using the cpu model
-    embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
-    #loading the topic modeler
-    topic_model = BERTopic.load("safe_bertopic", embedding_model=embedding_model)
-    # getting the stop words to be used later
     global_stop_words_set = set()
     for lang in stopwords.fileids():
         global_stop_words_set.update(stopwords.words(lang))
 
-    def __init__(self, pop_size:int, confidence:float = 0.95, margin_error:float = 0.05):
+    def __init__(self, pop_size:int, confidence:float = 0.95, margin_error:float = 0.05,
+                  embedding_model = None, embeddings:list[float] = []):
+        ''' Initializes the DomainSampler with population size, confidence level, margin of error, embedding model, and precomputed embeddings.
+        :param pop_size: Total number of individuals in the population
+        :param confidence: Confidence level (e.g., 0.95 for 95%) (optional)
+        :param margin_error: Acceptable margin of error (e.g., 0.05 for 5%) (optional)
+        :param embedding_model: The embedding model to use (optional)
+        :param embeddings: A list of precomputed embeddings to use for topic modeling (optional)'''
         self.pop_size = pop_size
         self.confidence = confidence
         self.margin_error = margin_error
-    
+        if not embeddings:
+            self.embeddings = None #this value forces the modelr to use the default embedding model to generate the embeddings for topic modeling
+        else:
+            self.embeddings = np.array(embeddings)
+        # downloading the embedding model
+        self.embedding_model = embedding_model
+        if not self.embedding_model:
+            if torch.cuda.is_available():
+                self.embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2",
+                                                    device="cuda:0")
+            else:
+                self.embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+        #loading the topic modeler
+        self.topic_model = BERTopic.load("safe_bertopic", embedding_model = self.embedding_model)
+
     def get_min_sample_size(self)->int:
         """
         Calculates minimum sample size for a finite population.
@@ -129,18 +145,17 @@ class DomainSampler():
                         "text":self.clean_text(soup.get_text(separator=" ", strip=True))})
         return articles_text
     
-    def topic_analysis(self, urls:list[str], articles:list, model=topic_model)-> pd.DataFrame:
+    def topic_analysis(self, urls:list[str], articles:list)-> pd.DataFrame:
         """
         Preprocesses the HTML content of articles from a domain and returns topic with their relative urls ordered by 
         the number of words of their corresponding article content.
 
         :param urls: list fo the urls sample from limited population theory
         :param articles: list of articles HTML content
-        :param model: the topic model to use for transformation
         """ 
         cleaned_articles = [art['text'] for art in tqdm(self.preprocess_html(articles))]
         art_lens = [len(art.split()) for art in cleaned_articles]
-        topics, probs = model.transform(cleaned_articles)
+        topics, probs = self.topic_model.transform(cleaned_articles, embeddings = self.embeddings)
         analysis_df = pd.DataFrame({'url':urls, 'article_word_num':art_lens, 'topic' : topics, 'prob': probs})
         # 1. Sort the dataframe by the number of words in ascending order
         analysis_df = analysis_df.sort_values(by="article_word_num", ascending=True)
