@@ -6443,11 +6443,3970 @@ True # links found as expected
     <div id="js-global-screen-reader-notice" class="sr-only mt-n1" aria-live="polite" aria-atomic="true" ></div>
     <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
   </body>
-</html> ''']
+</html> ''','''
+<!doctype html>
+<html lang="de-DE">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.6 (Yoast SEO v27.4) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Pay-per-Date vs. Escort 2026: Vergleichstabelle | Ohlala</title>
+	<meta name="description" content="Pay-per-Date vs. Escort direkt verglichen: Modell, Recht, Verdienst, Sicherheit. Tabelle mit konkreten Unterschieden für DACH 2026." />
+	<link rel="canonical" href="https://www.ohlala.com/blog/vergleich-pay-per-date-vs-escort/" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Pay-per-Date vs. Escort 2026: Vergleichstabelle" />
+	<meta property="og:description" content="Pay-per-Date vs. Escort direkt verglichen: Modell, Recht, Verdienst, Sicherheit. Tabelle mit konkreten Unterschieden für DACH 2026." />
+	<meta property="og:url" content="https://www.ohlala.com/blog/vergleich-pay-per-date-vs-escort/" />
+	<meta property="og:site_name" content="Ohlala dating" />
+	<meta property="article:published_time" content="2026-06-02T09:31:16+00:00" />
+	<meta property="article:modified_time" content="2026-06-02T09:31:18+00:00" />
+	<meta property="og:image" content="https://www.ohlala.com/wp-content/uploads/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg" />
+	<meta property="og:image:width" content="150" />
+	<meta property="og:image:height" content="150" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Jan" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@ohlaladating" />
+	<meta name="twitter:site" content="@ohlaladating" />
+	<meta name="twitter:label1" content="Verfasst von" />
+	<meta name="twitter:data1" content="Jan" />
+	<meta name="twitter:label2" content="Geschätzte Lesezeit" />
+	<meta name="twitter:data2" content="3 Minuten" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#article","isPartOf":{"@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/"},"author":{"name":"Jan","@id":"https:\/\/www.ohlala.com\/#\/schema\/person\/b2c0c60f43dc13d61494e257e5573e43"},"headline":"Pay-per-Date vs. Escort 2026: Vergleichstabelle","datePublished":"2026-06-02T09:31:16+00:00","dateModified":"2026-06-02T09:31:18+00:00","mainEntityOfPage":{"@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/"},"wordCount":502,"publisher":{"@id":"https:\/\/www.ohlala.com\/#organization"},"image":{"@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#primaryimage"},"thumbnailUrl":"https:\/\/www.ohlala.com\/wp-content\/uploads\/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg","articleSection":["Blog"],"inLanguage":"de"},{"@type":"WebPage","@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/","url":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/","name":"Pay-per-Date vs. Escort 2026: Vergleichstabelle | Ohlala","isPartOf":{"@id":"https:\/\/www.ohlala.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#primaryimage"},"image":{"@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#primaryimage"},"thumbnailUrl":"https:\/\/www.ohlala.com\/wp-content\/uploads\/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg","datePublished":"2026-06-02T09:31:16+00:00","dateModified":"2026-06-02T09:31:18+00:00","description":"Pay-per-Date vs. Escort direkt verglichen: Modell, Recht, Verdienst, Sicherheit. Tabelle mit konkreten Unterschieden für DACH 2026.","breadcrumb":{"@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#breadcrumb"},"inLanguage":"de","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/"]}]},{"@type":"ImageObject","inLanguage":"de","@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#primaryimage","url":"https:\/\/www.ohlala.com\/wp-content\/uploads\/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg","contentUrl":"https:\/\/www.ohlala.com\/wp-content\/uploads\/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg","width":150,"height":150,"caption":"Processed with VSCO with a4 preset"},{"@type":"BreadcrumbList","@id":"https:\/\/www.ohlala.com\/blog\/vergleich-pay-per-date-vs-escort\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Startseite","item":"https:\/\/www.ohlala.com\/"},{"@type":"ListItem","position":2,"name":"Pay-per-Date vs. Escort 2026: Vergleichstabelle"}]},{"@type":"WebSite","@id":"https:\/\/www.ohlala.com\/#website","url":"https:\/\/www.ohlala.com\/","name":"Ohlala dating","description":"","publisher":{"@id":"https:\/\/www.ohlala.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.ohlala.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"de"},{"@type":"Organization","@id":"https:\/\/www.ohlala.com\/#organization","name":"Ohlala","url":"https:\/\/www.ohlala.com\/","logo":{"@type":"ImageObject","inLanguage":"de","@id":"https:\/\/www.ohlala.com\/#\/schema\/logo\/image\/","url":"https:\/\/www.ohlala.com\/wp-content\/uploads\/2021\/06\/logo-pink.png","contentUrl":"https:\/\/www.ohlala.com\/wp-content\/uploads\/2021\/06\/logo-pink.png","width":230,"height":90,"caption":"Ohlala"},"image":{"@id":"https:\/\/www.ohlala.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/x.com\/ohlaladating","https:\/\/www.instagram.com\/ohlalaapp?igsh=MWtqbGpzbGgzN2hmNA&utm_source=qr"]},{"@type":"Person","@id":"https:\/\/www.ohlala.com\/#\/schema\/person\/b2c0c60f43dc13d61494e257e5573e43","name":"Jan","image":{"@type":"ImageObject","inLanguage":"de","@id":"https:\/\/secure.gravatar.com\/avatar\/872b084d44fbd1bcb5157ce80d1c321e8a3c560012d93cdf105ee24f50c5c244?s=96&d=mm&r=g","url":"https:\/\/secure.gravatar.com\/avatar\/872b084d44fbd1bcb5157ce80d1c321e8a3c560012d93cdf105ee24f50c5c244?s=96&d=mm&r=g","contentUrl":"https:\/\/secure.gravatar.com\/avatar\/872b084d44fbd1bcb5157ce80d1c321e8a3c560012d93cdf105ee24f50c5c244?s=96&d=mm&r=g","caption":"Jan"}}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.ohlala.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Ohlala dating &raquo; Feed" href="https://www.ohlala.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ohlala dating &raquo; Kommentar-Feed" href="https://www.ohlala.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ohlala.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ohlala.com%2Fblog%2Fvergleich-pay-per-date-vs-escort%2F&#038;lang=de" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ohlala.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ohlala.com%2Fblog%2Fvergleich-pay-per-date-vs-escort%2F&#038;format=xml&#038;lang=de" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='jkit-elements-main-css' href='https://www.ohlala.com/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=3.0.3' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.ohlala.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.4' media='all' />
+
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.ohlala.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' media='all' />
+<link rel='stylesheet' id='dispensary-age-verification-css' href='https://www.ohlala.com/wp-content/plugins/dispensary-age-verification/public/css/dispensary-age-verification-public.min.css?ver=2.9.5' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='elementor-post-11731-css' href='https://www.ohlala.com/wp-content/uploads/elementor/css/post-11731.css?ver=1776187123' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://www.ohlala.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.24.4' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://www.ohlala.com/wp-content/uploads/elementor/css/global.css?ver=1776187125' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.ohlala.com/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.ohlala.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://www.ohlala.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://www.ohlala.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.24.4' media='all' />
+<link rel='stylesheet' id='e-animation-grow-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='widget-text-editor-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://www.ohlala.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.6' media='all' />
+<link rel='stylesheet' id='elementor-post-11762-css' href='https://www.ohlala.com/wp-content/uploads/elementor/css/post-11762.css?ver=1776187125' media='all' />
+<link rel='stylesheet' id='elementor-post-11759-css' href='https://www.ohlala.com/wp-content/uploads/elementor/css/post-11759.css?ver=1776187125' media='all' />
+<link rel='stylesheet' id='borlabs-cookie-css' href='https://www.ohlala.com/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.2.24-13' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://www.ohlala.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.3' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://www.ohlala.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.3' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CSpace+Grotesk%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.9.4' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://www.ohlala.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.7.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://www.ohlala.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.ohlala.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://www.ohlala.com/wp-content/plugins/dispensary-age-verification/public/js/js.cookie.js?ver=2.9.5" id="age-verification-cookie-js"></script>
+<script id="dispensary-age-verification-js-extra">
+var object_name = {"bgImage":"","minAge":"18","imgLogo":"","logoWidth":"","logoHeight":"","title":"Alterspr\u00fcfung","copy":"Du musst mindestens [age] Jahre alt sein, um diese Website zu besuchen.","btnYes":"JA","btnNo":"NEIN","successTitle":"Erfolg!","successText":"Du wirst nun zur\u00fcck zur Website geleitet.","successMessage":"","failTitle":"Entschuldigung!","failText":"Du bist nicht alt genug, um diese Website zu besuchen.","messageTime":"","redirectOnFail":"","beforeContent":"","afterContent":""};
+//# sourceURL=dispensary-age-verification-js-extra
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/dispensary-age-verification/public/js/dispensary-age-verification-public.js?ver=2.9.5" id="dispensary-age-verification-js"></script>
+<script id="borlabs-cookie-prioritize-js-extra">
+var borlabsCookiePrioritized = {"domain":"www.ohlala.com","path":"/","version":"1","bots":"1","optInJS":{"essential":{"google-tag-manager":"PCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+DQo8c2NyaXB0PihmdW5jdGlvbih3LGQscyxsLGkpe3dbbF09d1tsXXx8W107d1tsXS5wdXNoKHsiZ3RtLnN0YXJ0IjoNCm5ldyBEYXRlKCkuZ2V0VGltZSgpLGV2ZW50OiJndG0uanMifSk7dmFyIGY9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZShzKVswXSwNCmo9ZC5jcmVhdGVFbGVtZW50KHMpLGRsPWwhPSJkYXRhTGF5ZXIiPyImbD0iK2w6IiI7ai5hc3luYz10cnVlO2ouc3JjPQ0KImh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0bS5qcz9pZD0iK2krZGw7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLGYpOw0KfSkod2luZG93LGRvY3VtZW50LCJzY3JpcHQiLCJkYXRhTGF5ZXIiLCJHVE0tV0paSzIzSCIpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg=="},"statistics":{"google-analytics":"PHNjcmlwdD4NCndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KICB3aW5kb3cuZGF0YUxheWVyLnB1c2goew0KICAgIGV2ZW50OiAnYm9ybGFic0Nvb2tpZU9wdEluR29vZ2xlQW5hbHl0aWNzJywNCiAgfSk7DQo8L3NjcmlwdD4="},"marketing":{"tj_pt":"PHNjcmlwdD4NCndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KICB3aW5kb3cuZGF0YUxheWVyLnB1c2goew0KICAgIGV2ZW50OiAnYm9ybGFic0Nvb2tpZU9wdEluVHJhZmZpY0p1bmt5JywNCiAgfSk7DQo8L3NjcmlwdD4=","conversion_linker":"PHNjcmlwdD4NCndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOw0KICB3aW5kb3cuZGF0YUxheWVyLnB1c2goew0KICAgIGV2ZW50OiAnYm9ybGFic0Nvb2tpZU9wdEluQ29udmVyc2lvbkxpbmtlcicsDQogIH0pOw0KPC9zY3JpcHQ+"}}};
+//# sourceURL=borlabs-cookie-prioritize-js-extra
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie-prioritize.min.js?ver=2.2.24" id="borlabs-cookie-prioritize-js"></script>
+<link rel="https://api.w.org/" href="https://www.ohlala.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ohlala.com/wp-json/wp/v2/posts/14124" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ohlala.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel='shortlink' href='https://www.ohlala.com/?p=14124' />
+        <style type="text/css">
+        .avwp-av-overlay {
+            background-image: url();
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+            box-sizing: border-box;
+        }
+        .avwp-av {
+            box-shadow: none;
+        }
+        </style>
+    <meta name="generator" content="Site Kit by Google 1.176.0" /><meta name="generator" content="Elementor 3.24.6; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-WJZK23H");</script>
+<!-- End Google Tag Manager -->			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://www.ohlala.com/wp-content/uploads/cropped-apple-touch-icon-180-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.ohlala.com/wp-content/uploads/cropped-apple-touch-icon-180-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.ohlala.com/wp-content/uploads/cropped-apple-touch-icon-180-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.ohlala.com/wp-content/uploads/cropped-apple-touch-icon-180-270x270.png" />
+		<style id="wp-custom-css">
+			
+.wp-core-ui .button-primary {
+    text-shadow: none !important;
+}
+.kc-params-popup * {
+	backface-visibility: hidden;
+}
+.kc-params-popup .m-p-body {
+    padding: 15px;
+    min-width: 250px;
+    background-color: #fff;
+    max-height: 500px;
+    overflow: auto;
+    padding-top: 25px;
+    color: #444;
+    font-size: 13px;
+    line-height: 1.4em;
+    box-sizing: content-box;
+	overflow-x: hidden;
+    overflow-y: auto;
+}
+.kc-elm-settings-popup.kc-params-popup .m-p-body {
+	max-height: calc(100vh - 250px);
+}
+.kc-params-popup.hasTabs .m-p-body {
+    margin-top: 60px;
+}
+.kc-params-popup .m-p-body .kc-pop-tab{
+    display: none;
+}
+.m-p-body p.align-center{
+	margin: 80px 0;	
+}
+.kc-params-popup .m-p-body .kc-pop-tab.form-active{
+    display: block;
+}
+.kc-params-popup .m-p-body .kc-error,
+.kc-params-popup .m-p-body .kc-notice{
+    background: #ef6161;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    margin: 0px;
+	box-shadow: 0 0 1px 0 rgba(0,0,0,.2);
+}
+.kc-params-popup .m-p-body .kc-notice{
+    background: #fdffc4;
+    color: #333;
+}
+.m-p-body .kc-param-row {
+    display: inline-block;
+    width: 100%;
+    clear: both;
+    border-bottom: 2px dotted #E4E4E4;
+    min-height: 60px;
+    box-sizing: content-box;
+}
+.m-p-body .kc-param-row.relation-hidden{
+    height: 0px;
+    overflow: hidden;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    min-height: 0px;
+}    
+.m-p-body .kc-param-row.field-random {
+    display: none;
+}
+.m-p-body .kc-param-row.field-post_taxonomy .m-p-r-content.full-width {
+    text-align: left;
+}
+.m-p-body .kc-param-row.field-hidden {
+    display: none;
+}
+.m-p-body .kc-param-row.field-group > .m-p-r-label, 
+.m-p-body .kc-param-row.field-googlemap > .m-p-r-label,
+.m-p-body .kc-param-row.field-editor > .m-p-r-label {
+    width: 100%;
+    text-align: left;
+    padding: 0px;
+    display: block;
+    min-height: 40px;
+}
+.m-p-body .kc-param-row.field-group > .m-p-r-content, 
+.m-p-body .kc-param-row.field-googlemap > .m-p-r-content,
+.m-p-body .kc-param-row.field-editor > .m-p-r-content {
+    width: 100%;
+    text-align: left;
+    padding: 0px;
+    display: block;
+    margin-bottom: 20px;
+}
+.kc-map-param-search {
+    max-width: 300px !important;
+    top: 8px !important;
+    left: auto !important;
+    right: 10px;
+    height: 38px !important;
+    padding: 10px;
+    z-index: 1 !important;
+}
+.kc-param-row .clear {
+    clear: both;
+    display: block;
+    width: 100%;
+    height: 1px;
+}
+.pac-container {
+    z-index: 10000;
+}
+.m-p-body .kc-param-row * {
+    max-width: 100%;
+}
+.m-p-body .kc-param-row .kc-edtip{
+	color: #aaa;
+	margin-left: 10px;
+}
+.gm-style-mtc, .gm-style-mtc div {
+    height: 20px;
+    line-height: 22px
+}
+.gmnoprint, .gmnoprint>div>div {
+    min-width: 30px;
+}
+.m-p-body .kc-param-row .kingcolors-panel,
+.m-p-body .kc-param-row .kingcolors-panel * {
+    max-width: initial !important;
+}
+.m-p-body .kc-pop-tab>.kc-param-row:last-child {
+    border-bottom: none;
+}
+.m-p-body .kc-param-row .m-p-r-label{
+    float: left;
+    width: 100%;
+    padding: 0 15px;
+    text-align: left;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+.m-p-body .kc-param-row .m-p-r-content {
+	float: left;
+    width: 100%;
+    min-height: 45px;
+    line-height: 30px;
+    padding: 8px 15px 15px 15px;
+    text-align: left;
+    font-weight: normal;
+    box-sizing: border-box;
+}
+.m-p-body .kc-param-row.field-css .m-p-r-content,
+.m-p-body .kc-param-row.field-css .m-p-r-label{
+	padding-left: 0px;
+	padding-right: 0px;	
+}
+.m-p-body .kc-param-row .m-p-r-label label {
+    display: block;
+    line-height: 18px;
+    margin-top: 8px;
+    cursor: default;
+    font-weight: 600;
+	text-transform: capitalize;
+}
+.m-p-body .kc-param-row.field-corners label {
+	margin-top: 18px;	
+}
+.m-p-body .kc-param-row .wp-editor-container{
+    border: 1px solid #ddd;
+}
+.m-p-body .kc-param-row .link-preview{
+	color: #888;
+}
+.m-p-body .kc-param-row .button {
+    box-shadow: none;
+    border-radius: 1px;
+    margin-right: 5px;
+    color: #555;
+    border-color: #ccc;
+    background: #f7f7f7;
+    box-shadow: none;
+    vertical-align: top;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 32px;
+    height: 32px;
+    margin: 0;
+    padding: 0 14px 1px;
+    cursor: pointer;
+}
+.m-p-body .kc-param-row .button:hover {
+    background: #fafafa;
+    border-color: #999;
+    color: #23282d;
+}
+.m-p-body .kc-param-row .kc-select-wrp {
+    display: inline-block;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.m-p-body .kc-param-row .m-p-r-content.full-width {
+    width: 100%;
+    text-align: center;
+}
+.m-p-body .kc-param-row .m-p-r-des {
+    display: block;
+    clear: both;
+    width: 100%;
+    padding: 5px 0 12px;
+    font-style: italic;
+    color: #bbb;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.m-p-body .kc-param-row select {
+    max-width: 90%;
+    width: 80%;
+    display: block;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    background: #fff;
+    height: 35px;
+    font-size: 14px;
+    background-color: #fafafa;
+    background-image: url('../images/arrow-select.png');
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    border: 1px solid #bfc9d0;
+    -webkit-appearance: none;
+    padding: 0 10px;
+    -moz-appearance: none;
+}
+.m-p-body input[type="text"],
+.m-p-body input[type="search"],
+.m-p-body input[type="email"],
+.m-p-body input[type="number"] {
+    width: 90%;
+    height: 35px;
+    color: #666;
+    border: 1px solid #bfc9d0;
+    box-shadow: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    margin-left: 0px;
+    box-sizing: border-box;
+}
+.m-p-body input[type="number"] {
+	width: 120px;	
+}
+.m-p-body input[type="text"]:hover,
+.m-p-body input[type="search"]:hover,
+.m-p-body input[type="number"]:hover,
+.m-p-body select:hover,
+.m-p-body .kc-param-row select:hover,
+.m-p-body textarea:hover {
+	border: 1px solid #a7b5be;
+}
+.m-p-body .kc-param-row.field-color_picker input{
+	background-image: url('../images/color-pick.png') !important;
+	background-repeat: no-repeat !important;
+	background-position: right 2px !important;
+	background-size: 30px 30px !important;
+}
+.m-p-body input:focus,
+.m-p-body textarea:focus {
+    background-color: #f9fbcc;
+}
+.m-p-body .kc-param-row select:focus {
+    background-color: #f9fbcc;	
+}
+.m-p-body .kc-param-row select[multiple] {
+    max-height: 350px;
+    min-height: 150px;
+    background: none;
+    padding: 0px;
+}
+.m-p-body .kc-param-row select[multiple] option{
+	padding: 5px 10px;	
+}
+.m-p-body .kc-param-row select[multiple] option:hover{
+	background: #f9fbcc;	
+}
+.m-p-body .kc-param-row a.clear-selected {
+    text-decoration: none;
+    clear: both;
+    line-height: normal;
+    margin: 5px 0 10px;
+    white-space: nowrap;
+}
+.m-p-body .kc-param-row .nowrap {
+    white-space: nowrap;
+    line-height: normal;
+    margin-right: 10px;
+    display: inline-block;
+}
+.field-wp_widget .m-p-r-label {
+    display: none;
+}
+.field-wp_widget .m-p-r-content, .field-wp_widget .m-p-r-content input[type="text"] {
+    width: 100% !important;
+}
+.field-wp_widget .m-p-r-content p:first-child {
+    margin-top: 0px;
+}
+.m-p-body .kc-param-row .m-p-r-content .kc-fonts-picker{
+	position: relative;
+	z-index: 100000;
+}
+.m-p-r-content .kc-fonts-picker button{
+    position: absolute;
+    right: 0px;
+    top: 1px;
+    color: #fff;
+    background: #42BCE2;
+    height: 35px;
+    line-height: 34px;
+    padding: 0 14px;
+    border: none;
+    cursor: pointer;
+}
+.m-p-r-content .kc-fonts-picker button:hover{
+    background: #298daa;	
+}
+.m-p-r-content .kc-fonts-picker ul.kc-fonts-list{
+    position: absolute;
+    left: 0px;
+    top: 35px;
+    display: none;
+    background: #222;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px 0 rgba(0,0,0,0.2);
+}
+ul.kc-fonts-list h1{
+	color: #fff;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+.m-p-r-content .kc-fonts-picker ul.kc-fonts-list:after{
+	content: "";
+	border: 10px solid transparent;
+	border-bottom: 10px solid #222;
+	position: absolute;
+	top: -20px;
+	left: 20px;
+}
+.m-p-r-content .kc-fonts-picker ul.kc-fonts-list li{
+    float: left;
+    width: 100%;
+    padding: 8px 14px;
+    border-top: 1px solid rgba(255, 255, 255, 0.09);
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 0px;
+}
+.m-p-r-content .kc-fonts-picker ul.kc-fonts-list li:hover{
+    background: #42bce2;
+    color: #fff;
+}
+.m-p-r-content .kc-fonts-picker ul.kc-fonts-list li:first-child{
+	border: none;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+.m-p-r-content .kc-fonts-picker ul.kc-fonts-list li:last-child{
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+.img-wrp {
+    position: relative;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: block;
+    line-height: normal;
+    text-align: center;
+}
+.field-attach_images .img-wrp{
+    max-width: 48% !important;
+}
+.kc-param-row.field-attach_image_url .img-wrp {
+    min-width: 300px;
+}
+.kc-param-row.field-attach_image_url .img-wrp img{
+    float: none;
+}
+.img-wrp-placeholder {
+    border: 1px dashed #666;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.img-wrp img {
+    float: left;
+    cursor: pointer;
+    max-width: 100%;
+}
+.img-wrp i.sl-close {
+    position: absolute;
+    background: rgba(255, 0, 0, 0.65);
+    color: #fff;
+    border-radius: 5px;
+    top: 3px;
+    right: 3px;
+    padding: 5px;
+    transition: opacity 250ms;
+    -webkit-transition: opacity 250ms;
+    -moz-transition: opacity 250ms;
+    opacity: 0;
+    text-align: center;
+    font-weight: bold;
+}
+.img-wrp i.sl-close:hover {
+    background: rgb(255, 0, 0);
+}
+.img-wrp .img-sizes {
+    display: block;
+    clear: both;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 50%;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: -20px;
+    /* height: 100%; */
+}
+.img-wrp .img-sizes button {
+    display: inline-block;
+    margin-right: 5px;
+    box-shadow: none;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    height: 28px !important;
+    line-height: 28px !important;
+    background: #333;
+    border: none;
+    color: #fff;
+}
+.img-wrp-medium .img-wrp img {
+    width: 85px;
+}
+.img-wrp-large .img-wrp img {
+    width: 55px;
+}
+.img-wrp:hover i.sl-close {
+    opacity: 0.8;
+    cursor: pointer;
+}
+.field-animate .kc-animate-field{
+	display: flex;
+	padding: 5px 10px;
+	box-sizing: border-box;
+}
+.field-animate .kc-animate-field strong{
+    margin: 0;
+    min-width: 70px;
+    text-align: left;
+}
+.field-animate .kc-animate-field select{
+	margin-right: 20px;
+	width: 70%;
+}
+.field-animate .kc-animate-field input[type="text"],
+.field-animate .kc-animate-field select.small-sel{
+	width: 150px;
+}
+.field-animate .kc-animate-preview{
+    background: #42bce2;
+    padding: 50px 0;
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+.field-animate .kc-animate-preview small{
+	font-size: 13px;
+    clear: both;
+    display: block;
+    letter-spacing: 1px;
+    text-transform: initial;
+}
+.kc-param-row.field-attach_media .filename{
+    padding: 8px 20px;
+    border: 1px dashed #848484;
+    background: #eee;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: maroon;
+}
+.kc-param-row.field-attach_media .media-wrp{
+    position: relative;
+    display: inline-block;
+}
+.kc-param-row.field-attach_media .media-wrp i.sl-close{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    cursor: pointer;
+}
+.kc-param-row.field-attach_media .media-wrp i.sl-close:hover{
+	color: maroon;	
+}
+.m-p-body .kc-param-row .kc-editor-wrapper {
+    margin-bottom: 5px;
+}
+.m-p-body .kc-param-row a:focus,
+.m-p-body .kc-param-row a:active {
+    box-shadow: none;
+}
+.kc-param-row.field-attach_image .m-p-r-content {
+    line-height: 25px;
+    display: inline-block;
+}
+.kc-param-row .multi-fields-ul, .kc-param-row .multi-fields-units-ul {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+.kc-param-row .multi-fields-ul li {
+    float: left;
+    text-align: center;
+    margin: 0 -1px 0 0;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #aaa;
+    width: 20%;
+    line-height: 20px;
+}
+.kc-param-row.field-css_border .multi-fields-ul li {
+	width: auto;	
+}
+.kc-param-row.field-css_border .multi-fields-ul li input.m-f-u-first{
+	width: 60px;
+}
+.kc-param-row .multi-fields-units {
+    width: 100%;
+    text-align: right;
+    margin: 0px;
+    box-sizing: border-box;
+    padding-right: 50px;
+    margin-top: -16px;
+}
+.kc-param-row .multi-fields-units li{
+    padding: 0;
+    margin: 0 1px 0px 0;
+    cursor: pointer;
+    min-width: 35px;
+    text-align: center;
+    border-radius: 2px;
+    height: 20px;
+    display: inline-block;
+    line-height: 20px;
+    color: #ccc;
+}
+.kc-param-row .multi-fields-units li.active,
+.kc-param-row .multi-fields-units li:hover{
+	color: #333;
+	font-weight: bold;
+}
+.m-p-body .kc-param-row .multi-fields-ul input{
+    width: 100%;
+    background-image: none !important;
+    float: left;
+    margin: 0px;
+    text-align: center;
+    font-size: 12px;
+    height: 32px;
+}
+.m-p-body .kc-param-row .multi-fields-ul input.m-f-bb-color {
+    width: 165px;
+}
+.m-p-body .kc-param-row .css-border-advanced{
+	display: block;
+}
+.m-p-body .kc-param-row .multi-fields-ul input[type="number"]:focus {
+    position: relative;
+    z-index: 10;
+}
+.m-p-body .kc-param-row .multi-fields-ul .m-f-u-li-link {
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;
+}
+.m-p-body .kc-param-row .multi-fields-ul .m-f-u-li-link span {
+    background: #f5f5f5;
+    padding: 5px 10px;
+    float: left;
+    border: 1px solid #bfc9d0;
+    text-align: center;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    color: #333;
+    cursor: pointer;
+}
+.m-p-body .kc-param-row .multi-fields-ul .m-f-u-li-link.active span,
+.m-p-body .kc-param-row .multi-fields-ul .m-f-u-li-link span:hover{
+	background: #42BCE2;
+	border-color: #42BCE2;
+	color: #fff;	
+}
+.multi-fields-ul .m-f-u-li-link span input {
+    margin: -3px 0 0 0;
+}
+.m-p-body .kc-param-row .multi-fields-ul .m-f-u-li-link .multi-fields-units{
+    position: absolute;
+    right: -60px;
+    min-width: 50px;
+    border: 1px solid#ccc;
+    color: #aaa;
+    padding: 0 7px;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.m-p-body .kc-param-row .multi-fields-ul select {
+    margin: 0px;
+    width: 100%;
+    min-width: 80px;
+    height: 32px;
+    border: none;
+    box-shadow: none;
+    position: relative;
+    background-color: transparent;
+    color: #aaa;
+}
+.m-p-body .kc-param-row .multi-fields-ul .m-f-u-li-splect {
+    height: 32px;
+    width: 100%;
+    border: 1px solid #ccc;
+    display: inline-block;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    border-right: none;
+    border-left: none;
+    box-sizing: border-box;
+}
+.kc-param-row.field-icon_picker {
+    position: relative;
+}
+.kc-param-row.field-icon_picker.active {
+    padding-bottom: 150px;
+}
+.kc-param-row.field-icon_picker.active .icons-list {
+    display: block;
+}
+
+
+.kc-param-row.field-radio input[type="radio"]{
+	display: none;
+}
+.kc-param-row.field-radio label.rbtn{
+	float: left;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+    margin: 0 0 5px 0;
+    font-size: 13px;
+    padding: 0px 0px 0px 28px;
+}
+.kc-param-row.field-radio input[type=radio] + label.rbtn:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border: 2px solid #D4D9DF;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    box-sizing: border-box;
+}
+
+.kc-param-row.field-radio input[type=radio] + label.rbtn:after {
+    content: '';
+    font-size: 14px;
+    position: absolute;
+    top: 50%;
+    left: 6px;
+    width: 8px;
+    height: 8px;
+    background: #56c3e5;
+    border-radius: 50%;
+    line-height: 0.8;
+    color: #56c3e5;
+    opacity: 0;
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    margin-top: -4px;
+}
+
+.kc-param-row.field-radio input[type=radio]:checked + label.rbtn:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+
+.kc-param-row.field-radio_image .kc-radio-image-field-body{
+	display: inline-block;
+	width: 100%;
+	position: relative;
+}
+.kc-param-row.field-radio_image .kc-radio-image-field-body img.large-view{
+	position: fixed;
+	z-index: 3;
+	top: 0px;
+	left: 0px;
+	box-shadow: 1px 1px 2px 0 rgba(0,0,0,.5);
+	max-width: 750px;
+	border-radius: 2px;
+	display: none;
+	background: #fff;
+}
+.kc-param-row.field-radio_image input[type="radio"]{
+	display: none;
+}
+.kc-param-row.field-radio_image label.rbtn{
+	float: left;
+    width: auto;
+    position: relative;
+    cursor: pointer;
+    margin: 7px 14px 7px 0px;
+    line-height: 15px;
+}
+
+.kc-param-row.field-radio_image input[type=radio] + label.rbtn:after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    left: -5px;
+    width: 100%;
+    height: 100%;
+    border: 3px solid #ddd;
+    opacity: 0;
+    box-sizing: content-box;
+    transform: scale(0.9);
+    transition: all .2s;
+    float: left;
+    padding-right: 4px;
+    padding-bottom: 1px;
+}
+.kc-param-row.field-radio_image input[type=radio] + label.rbtn:hover:after {
+    opacity: 1;
+    transform: scale(1);
+}
+.kc-param-row.field-radio_image input[type=radio]:checked + label.rbtn:after {
+    opacity: 1;
+    border: 3px solid #56c3e5;
+    transform: scale(1);
+}
+.kc-param-row.field-radio_image label.rbtn img{
+	max-width: 90px;
+	position: relative;
+	z-index: 2;
+	background: #fff;
+    box-shadow: 0px 0px 1px 0 rgba(0,0,0,.15);
+}
+
+
+
+.kc-param-row.field-checkbox input[type="checkbox"]{
+	display: none;
+}
+.kc-param-row.field-checkbox label.rbtn{
+    float: left;
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+    margin: 0 0 5px 0;
+    font-size: 13px;
+    padding: 0px 0px 0px 28px;
+    background: transparent;
+}
+.kc-param-row.field-checkbox input[type=checkbox] + label.rbtn:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    border-radius: 0px;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border: 2px solid #D4D9DF;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    box-sizing: border-box;
+}
+
+.kc-param-row.field-checkbox input[type=checkbox] + label.rbtn:after {
+    content: '\f00c';
+    font-family: "FontAwesome";
+    font-size: 12px;
+    position: absolute;
+    top: 50%;
+    left: 4px;
+    opacity: 0;
+    line-height: 0.8;
+    color: #56c3e5;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    margin-top: -4px;
+}
+
+.kc-param-row.field-checkbox input[type=checkbox]:checked + label.rbtn:after {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+
+.kc-param-row.field-css_border .m-p-r-content label{
+	display: block;
+    text-transform: capitalize;
+    font-size: 13px;
+    color: #888;
+    font-weight: bold;
+    border-top: 1px solid #eee;
+}
+
+.kc-param-row.field-autocomplete .kc_autocomplete_wrp{
+    position: relative;
+}
+.kc-param-row.field-autocomplete .kc_autocomplete_wrp .autcp-items{
+	margin: 0px;
+}
+.kc-param-row.field-autocomplete .kc_autocomplete_wrp .autcp-items li{
+    background: #42bce2;
+    padding: 5px 10px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    width: auto;
+    line-height: 20px;
+    cursor: move;
+    color: #fff;
+    text-transform: capitalize;
+    float: left;
+    margin: 0 5px 5px 0;
+}
+.kc-param-row.field-autocomplete .kc_autocomplete_wrp .autcp-items li:hover{
+    background: #383838;
+}
+.kc-param-row.field-autocomplete .kc_autocomplete_wrp li i.kc-ac-remove{
+    float: right;
+    color: #fafafa;
+    cursor: pointer;
+    margin-top: 0px;
+    border-radius: 100%;
+    width: 13px;
+    height: 13px;
+    line-height: 21px;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.kc-param-row.field-autocomplete .kc_autocomplete_wrp li i.kc-ac-remove:hover{
+    color: #aaa;
+}
+.kc-param-row.field-autocomplete .kc-autp-suggestion{
+    position: absolute;
+    left: 1px;
+    top: 100%;
+    width: 80%;
+    background: #fafafa;
+    padding: 0;
+    box-shadow: 3px 3px 15px 0 rgba(0,0,0,0.5);
+    display: none;
+    max-height: 250px;
+    overflow-y: auto;
+    z-index: 10;
+}
+.kc-param-row.field-autocomplete .kc-autp-suggestion ul{margin: 0px;}
+.kc-param-row.field-autocomplete .kc-autp-suggestion li{
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    float: left;
+    width: 100%;
+    margin: 0px;
+    padding: 5px 10px;
+    color: #0085BA;
+    box-sizing: border-box;
+}
+.kc-param-row.field-autocomplete .kc-autp-suggestion li.label{
+    background: #5C747B;
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 5px 10px;
+    border-radius: 0px;
+    cursor: default;
+    text-transform: capitalize;
+}
+.kc-param-row.field-autocomplete .kc-autp-suggestion li.label:hover{
+    background: #888;
+    color: #fff;
+}
+.kc-autp-suggestion li .fa-spinner{
+    font-size: 18px;
+}
+.kc-param-row.field-autocomplete .kc-autp-suggestion li:hover{
+    background: #eee;
+}
+input.kc-param-icons {
+    box-shadow: none;
+    color: #666 !important;
+    width: 180px !important;
+    float: left;
+    margin: 13px 0 0 -6px !important;
+    padding-left: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    line-height: 30px;
+}
+.icons-preview {
+    text-align: center;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    border-radius: 40px;
+    position: relative;
+    z-index: 2;
+}
+.icons-preview>i {
+    display: inline-block;
+    height: 60px;
+    background: #fff;
+    width: 60px;
+    float: left;
+    clear: both;
+    border: 1px solid #DEDEDE;
+    border-radius: 100%;
+    font-size: 30px;
+    line-height: 60px;
+    color: #00a0d2;
+    cursor: pointer;
+    box-shadow: 0 0 20px 0 rgba(0, 160, 210, 0.2) inset;
+}
+.icons-preview:hover>i {
+    box-shadow: 0 0 20px 0 rgba(0, 160, 210, 0.35) inset;
+}
+.icons-list span {
+    display: inline-block;
+    padding-left: 3%;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    width: 97%;
+}
+.seach-results {
+    margin-bottom: 20px;
+}
+.seach-results span {
+    display: inline-block;
+    text-align: center;
+    min-width: 100px;
+    font-weight: 400;
+    font-size: 12px;
+    width: calc(20% - 1px);
+    margin: 0px;
+    padding: 10px 0 15px;
+    border-right: 1px solid #eee;
+    width: -moz-calc(20% - 1px);
+    width: -webkit-calc(20% - 1px);
+    border-left: 1px solid #eee;
+    margin-left: -1px;
+}
+.seach-results span:hover {
+    background: #f5f5f5;
+}
+.seach-results span.label{
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    font-size: 13px;
+    text-align: left;
+    padding-bottom: 10px;
+    border-right: none;
+    border-left: none;
+    background: transparent !important;
+    font-weight: bold;
+}
+.seach-results span i {
+    clear: both;
+    display: block;
+    width: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 20px;
+    background: transparent !important;
+}
+ul.kc-icon-picker-tabs{
+	margin-bottom: 10px;
+}
+ul.kc-icon-picker-tabs li{
+	font-weight: bold;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.icons-list i {
+    font-size: 20px;
+    display: inline-block;
+    margin: 10px;
+    width: 7.4%;
+    text-align: center;
+    cursor: pointer;
+    transition: all 200ms;
+    -webkit-transition: all 200ms;
+    -moz-transition: all 200ms;
+}
+.icons-list i.active,
+.icons-list i:hover {
+    color: #00a0d2;
+    background: #fff;
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+}
+.icons-list i.break {
+    width: 100%;
+    height: 1px;
+    clear: both;
+    margin: 15px 0;
+    background: #eee;
+}
+
+.kc-box {
+    width: calc(100% - 2px);
+    width: -webkit-calc(100% - 2px);
+    width: -moz-calc(100% - 2px);
+    background: #f5f5f5;
+    border: 1px solid #e1e1e1;
+    float: left;
+    padding: 0px;
+    border-radius: 2px;
+    min-height: 48px;
+    margin-bottom: 10px;
+    position: relative;
+    box-sizing: content-box;
+}
+.kc-box.mb-helper {
+    background: #fff;
+    border: 1px dashed #ccc;
+    display: none !important;
+    text-align: center;
+    padding-top: 20px;
+}
+.kc-box .kc-box-body>div:only-child,
+.kc-box .kc-box-body>.kc-box-column>div:only-child {
+    display: block !important;
+}
+
+.kc-box:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 11px;
+    left: 0px;
+    bottom: -11px;
+    float: left;
+}
+.kc-box-column .kc-box:before {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    top: -15px;
+    left: -15px;
+    width: calc(100% + 30px);
+    width: -webkit-calc(100% + 30px);
+    width: -moz-calc(100% + 30px);
+    height: calc(100% + 30px);
+    height: -webkit-calc(100% + 30px);
+    height: -moz-calc(100% + 30px);
+}
+
+.kc-box.mb-helper a {
+    text-decoration: none;
+    position: relative;
+    z-index: 3;
+}
+.kc-box .mb-header {
+    margin: 0px;
+    padding: 0px 10px;
+    width: calc(100% - 20px);
+    width: -webkit-calc(100% - 20px);
+    width: -moz-calc(100% - 20px);
+    float: left;
+    cursor: move;
+    background: #fafafa;
+    border-bottom: 1px solid #efefef;
+    position: relative;
+    z-index: 1;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-height: 31px;
+    box-sizing: content-box;
+}
+.kc-box.kc-column-one-one {
+    border: none;
+    width: 100%;
+    background: #fff;
+    padding-bottom: 5px;
+}
+.kc-box.kc-column-one-one>.mb-header {
+    z-index: 4;
+    padding-top: 30px;
+    position: absolute;
+    bottom: -15px;
+    background: transparent;
+    border: none;
+}
+.kc-box.kc-column-one-one>.mb-header:hover {
+    background: transparent;
+}
+.kc-box.kc-column-one-one>.mb-header li,
+.kc-box.kc-column-one-one>.mb-header:hover li.mb-edit,
+.kc-box.kc-column-one-one>.mb-header.editting li.mb-edit,
+.kc-box.kc-column-one-one>.mb-header:hover li.mb-remove,
+.kc-box.kc-column-one-one>.mb-header.editting li.mb-remove {
+    display: none;
+}
+.kc-box.kc-column-one-one>.mb-header li.mb-funcs {
+    display: block;
+    right: 0%;
+    background: transparent !important;
+    margin-right: 0;
+    height: 25px;
+    width: 100%;
+}
+.kc-box.kc-column-one-one>.mb-header li.mb-funcs .mb-add {
+    display: block !important;
+    background: transparent;
+}
+.kc-box.kc-column-one-one>.kc-box-body {
+    border: none;
+    padding: 0px;
+    width: 100%;
+}
+.kc-box .mb-header:hover {
+    background: #f3f3f3;
+}
+.kc-box .mb-header li {
+    float: left;
+    margin: 0 10px 0 0;
+    color: #BFBFBF;
+    font-size: 12px;
+    position: relative;
+    z-index: 10;
+}
+.kc-box .mb-header li.mb-funcs {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background: #fafafa;
+    width: calc(100% - 20px);
+    width: -webkit-calc(100% - 20px);
+    width: -moz-calc(100% - 20px);
+    z-index: 9;
+}
+.kc-box .mb-header:hover li.mb-funcs {
+    background: #f3f3f3;
+}
+.kc-box .mb-header li span {
+    font-style: italic;
+    color: #dedede;
+}
+.kc-box .mb-header li span:hover {
+    font-style: italic;
+    color: #aaa;
+}
+.kc-box .mb-header li.mb-tag {
+    font-style: inherit;
+    color: #555;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.kc-box .kc-box-body {
+    width: calc(100% - 20px);
+    width: -webkit-calc(100% - 20px);
+    width: -moz-calc(100% - 20px);
+    float: left;
+    min-height: 40px;
+    background: #fff;
+    padding: 10px;
+    padding-bottom: 0px;
+    border-radius: 2px;
+    position: relative;
+    z-index: 1;
+    box-sizing: content-box;
+}
+.kc-box .mb-header li.mb-func {
+    float: right;
+    padding-left: 7px;
+    margin: 0px;
+    padding-right: 7px;
+    color: #999;
+    cursor: pointer;
+    display: none;
+}
+.kc-box .mb-header li.mb-func.mb-add {
+    position: absolute;
+    left: 50%;
+    margin-left: -14px;
+}
+.kc-box>.mb-header:hover li.mb-func,
+.kc-box.kc-box-elm:hover>.mb-header li.mb-func,
+.kc-box>.mb-header.editting li.mb-func {
+    display: block;
+}
+.field-kc_box .m-p-r-content.full-width {
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.kc-box .mb-header li.mb-func:hover i {
+    color: #555;
+    font-weight: bold;
+}
+.kc-box .mb-header li i.fa-caret-down:hover {
+    color: #555;
+    cursor: pointer;
+}
+.kc-box .mb-header li.mb-remove {
+    color: #CD4D10;
+}
+.kc-box-toggled .kc-box-body {
+    display: none;
+}
+.kc-box-toggled .mb-toggle i:before {
+    content: "\f0d8";
+}
+.field-kc_box .html-code, .field-kc_box .css-code {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.field-kc_box .html-code {
+    right: auto;
+    left: 0px;
+}
+.field-kc_box .kc-box-render {
+    display: inline-block;
+    width: 100%;
+    margin: 15px 0px 0px 0px;
+}
+.kc-nodes {
+    text-align: center;
+}
+.kc-nodes .m-p-header {
+    text-align: left;
+}
+.kc-params-popup.kc-nodes .m-p-body {
+    padding: 15px 6px;
+}
+.kc-nodes button.button {
+    margin: 7px;
+    box-shadow: none;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+.kc-nodes.kc-columns button.button {
+    box-shadow: none;
+    border-radius: 0px;
+    position: relative;
+    border: none;
+    padding: 0px;
+    background: #E0E0E0;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.kc-nodes.kc-columns button.button span {
+    position: absolute;
+    bottom: -25px;
+    left: 0px;
+    width: 100%;
+    color: rgba(0, 0, 0, 0.3);
+    font-style: italic;
+    font-size: 10px;
+}
+.kc-nodes.kc-columns button.button:hover,
+.kc-nodes.kc-columns button.button:hover:after,
+.kc-nodes.kc-columns button.button:hover:before {
+    background: #ccc;
+}
+.kc-nodes.kc-columns button.button:before,
+.kc-nodes.kc-columns button.button:after {
+    content: "";
+    height: 28px;
+    width: 35px;
+    float: left;
+    background: #E0E0E0;
+}
+.kc-nodes.kc-columns button.one-one:after {
+    display: none;
+}
+.kc-nodes.kc-columns button.one-one:before {
+    width: 70px;
+}
+.kc-nodes.kc-columns button.one-secondone-second:before {
+    border-right: 1px solid #fff;
+}
+
+.kc-nodes.kc-columns button.one-thirdtwo-third:before {
+    width: 23px;
+    border-right: 1px solid #fff;
+}
+.kc-nodes.kc-columns button.one-thirdtwo-third:after {
+    width: 47px;
+}
+.kc-nodes.kc-columns button.two-thirdone-third:before {
+    width: 47px;
+    border-right: 1px solid #fff;
+}
+.kc-nodes.kc-columns button.two-thirdone-third:after {
+    width: 23px;
+}
+.kc-nodes.kc-columns button.one-thirdone-third:before {
+    width: 27px;
+    border-right: 1px solid #fff;
+}
+.kc-nodes.kc-columns button.one-thirdone-third:after {
+    width: 27px;
+    border-left: 1px solid #fff;
+    margin-left: 27px;
+}
+
+.kc-params-popup.kc_box_wrpop .m-p-body {
+    max-height: 750px;
+}
+.field-kc_box .kc-box-trash {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.field-kc_box .kc-box-trash .kc-box, .screen-reader-text {
+    display: none;
+}
+.kc-box.kc-box-elm {
+    border: 1px dotted #dedede;
+    background: #fff;
+}
+
+.kc-box.kc-box-column {
+    float: left;
+    width: 100%;
+}
+.kc-box.kc-box-column>.mb-header {
+    cursor: default;
+}
+.kc-box.kc-box-column>.mb-header .mb-double {
+    display: none !important;
+}
+.kc-box.kc-box-column>.mb-header .mb-toggle {
+    display: none;
+}
+.kc-box.kc-box-column:not(.kc-column-one-one) {
+    margin-right: -1px;
+}
+.kc-box-column.kc-column-one-second {
+    width: calc(50% - 2px);
+    width: -webkit-calc(50% - 2px);
+    width: -moz-calc(50% - 2px);
+    padding: 0;
+    min-height: 50px;
+}
+.kc-box-column.kc-column-one-third {
+    width: calc(33.33% - 2px);
+    width: -webkit-calc(33.33% - 2px);
+    width: -moz-calc(33.33% - 2px);
+    padding: 0;
+    min-height: 50px;
+}
+.kc-box-column.kc-column-two-third {
+    width: calc(66.66% - 2px);
+    width: -webkit-calc(66.66% - 2px);
+    width: -moz-calc(66.66% - 2px);
+    padding: 0;
+    min-height: 50px;
+}
+.kc-box.kc-box-column>.kc-box-body>.kc-box:before {
+    top: -10px;
+    left: -10px;
+    bottom: auto;
+    position: absolute;
+    content: "";
+    width: calc(100% + 20px);
+    width: -webkit-calc(100% + 20px);
+    width: -moz-calc(100% + 20px);
+    height: calc(100% + 20px);
+    height: -webkit-calc(100% + 20px);
+    height: -moz-calc(100% + 20px);
+}
+
+.kc-box.kc-box-elm>.mb-header {
+    width: calc(100% - 5px);
+    width: -webkit-calc(100% - 5px);
+    width: -moz-calc(100% - 5px);
+    border-bottom: none;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 1px;
+    border-left: none;
+    padding-left: 5px;
+    padding-right: 0px;
+    background: transparent;
+    z-index: 2;
+    overflow: inherit;
+}
+.kc-box.kc-box-text>.mb-header .mb-funcs {
+}
+.kc-box.kc-box-elm>.mb-header li.mb-funcs {
+    margin-right: 0px;
+    padding: 0 5px;
+    width: auto;
+}
+.kc-box.kc-box-text:hover>.mb-header li.mb-funcs,
+.kc-box.kc-box-icon:hover>.mb-header li.mb-funcs,
+.kc-box.kc-box-image:hover>.mb-header li.mb-funcs,
+.kc-box.kc-box-text>.mb-header.editting li.mb-funcs,
+.kc-box.kc-box-icon>.mb-header.editting li.mb-funcs,
+.kc-box.kc-box-image>.mb-header.editting li.mb-funcs
+{
+    top: -16px;
+    border: 1px dotted #bbb;
+    right: -1px;
+}
+.kc-box.kc-box-elm>.kc-box-body {
+    padding-top: 20px;
+}
+.kc-box.kc-box-elm>.mb-header li.mb-tag {
+    font-size: 10px;
+    font-weight: normal;
+    color: #888;
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    padding-left: 15px;
+}
+.kc-box.kc-box-elm>.mb-header li.mb-tag:after {
+    content: "\e023";
+    font-family: 'simple-line-icons';
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    font-size: 9px;
+}
+.kc-box.kc-box-elm>.mb-header li.mb-add,
+.kc-box.kc-box-elm>.mb-header li.mb-id,
+.kc-box.kc-box-elm>.mb-header li.mb-class,
+.kc-box.kc-box-elm>.mb-header li.mb-toggle {
+    display: none !important;
+}
+.kc-box.kc-box-icon>.kc-box-body i {
+    font-size: 50px;
+    cursor: pointer;
+}
+.kc-box-column .kc-box-column .kc-box.kc-box-icon>.kc-box-body i {
+    font-size: 40px;
+}
+.kc-box-column .kc-box-column .kc-box-column .kc-box.kc-box-icon>.kc-box-body i {
+    font-size: 30px;
+}
+.kc-box.kc-box-image>.kc-box-body img {
+    max-height: 150px;
+    cursor: pointer;
+}
+.kc-box .kc-box-inner-text {
+    margin-bottom: 5px;
+}
+.kc-box-icon .kc-box-body {
+    padding-bottom: 5px;
+}
+.kc-box-h1 .kc-box-inner-text {
+    font-size: 2em;
+}
+.kc-box-h2 .kc-box-inner-text {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+.kc-box-h3 .kc-box-inner-text {
+    font-size: 14px;
+    font-weight: 400;
+}
+.kc-box-h4 .kc-box-inner-text {
+    font-size: 1em;
+    font-weight: 400;
+}
+.kc-box-h5 .kc-box-inner-text {
+    font-size: .83em;
+    font-weight: 400;
+}
+.kc-box-h6 .kc-box-inner-text {
+    font-size: .67em;
+    font-weight: 400;
+}
+.kc-box-media-modal .media-sidebar .setting, .kc-box-media-modal .media-sidebar .attachment-display-settings h3 {
+    display: none;
+}
+.kc-box-media-modal .media-sidebar .attachment-display-settings label:last-child {
+    display: block;
+}
+.kc_raw_code_wrpop .field-textarea.field-base-code .m-p-r-label {
+    width: calc(15% - 15px);
+    width: -webkit-calc(15% - 15px);
+    width: -moz-calc(15% - 15px);
+}
+.kc_raw_code_wrpop .field-textarea.field-base-code .m-p-r-content {
+    width: 85%;
+}
+.kc_raw_code_wrpop .field-textarea.field-base-code .m-p-r-content textarea {
+    width: 95%;
+    min-height: 350px;
+}
+.kc-box-html-code .m-p-body textarea {
+    width: 100%;
+    max-width: 100%;
+    min-height: 350px;
+}
+.kc-pop-tab .kc-box-width {
+    display: inline-block !important;
+    width: 90% !important;
+    height: 32px;
+}
+.kc-param-row.field-group .kc-group-rows {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+.kc-param-row.field-group .kc-group-row {
+    float: left;
+    width: 100%;
+    clear: both;
+    text-align: left;
+    margin-bottom: 1px;
+    max-height: none;
+}
+.kc-param-row.field-group .kc-group-controls {
+    float: left;
+    width: 100%;
+    cursor: move;
+    background: #e5e5e5;
+}
+.kc-param-row.field-group .kc-group-controls ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.kc-param-row.field-group .kc-group-controls ul li {
+    float: right;
+    cursor: pointer;
+    margin: 0px;
+    height: 40px;
+    padding: 0 5px;
+    line-height: 42px;
+}
+.kc-param-row.field-group .kc-group-controls ul li:hover {
+    background: #42BCE2;
+    color: #fff;
+}
+.kc-param-row.field-group .kc-group-controls ul li.collapse {
+    float: left;
+    padding: 0px;
+}
+.kc-param-row.field-group .kc-group-controls ul li.counter {
+    float: left;
+    cursor: move;
+    color: #888;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding: 0px;
+}
+.kc-param-row.field-group .kc-group-controls ul li.counter:hover,
+.kc-param-row.field-group .kc-group-controls ul li.collapse:hover {
+    background: none;
+    color: #555;
+}
+
+.kc-param-row.field-group .kc-group-row .kc-group-controls ul li.collapse i:before {
+    content: "\e607";
+}
+.kc-param-row.field-group .kc-group-row.active .kc-group-controls ul li.collapse i:before {
+    content: "\e604";
+}
+.kc-param-row.field-group .kc-group-controls ul li i {
+    margin: 0 15px;
+}
+.kc-param-row.field-group .kc-group-controls ul li.delete {
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+}
+.kc-param-row.field-group .kc-group-controls ul li.delete i {
+    color: red;
+}
+.kc-param-row.field-group .kc-group-controls ul li.delete:hover {
+    background: #EF645A;
+    border-left-color: transparent;
+}
+.kc-param-row.field-group .kc-group-controls ul li.delete:hover i {
+    color: #fff;
+}
+.kc-param-row.field-group .kc-group-body {
+    float: left;
+    width: 100%;
+    clear: both;
+    padding-top: 0px;
+    background: #fafafa;
+    height: 0px;
+    overflow: hidden;
+}
+.kc-param-row.field-group .kc-group-row.active .kc-group-body {
+    display: block;
+    /*animation-duration: 0.5s;
+    animation-name: fadeInFromNone;
+    animation-fill-mode: forwards;
+    -webkit-animation-duration: 0.5s;
+    -webkit-animation-name: fadeInFromNone;
+    -webkit-animation-fill-mode: forwards;
+    -ms-animation-duration: 0.5s;
+    -ms-animation-name: fadeInFromNoneIE;
+    -ms-animation-fill-mode: forwards;*/
+    padding-top: 15px;
+    height: inherit;
+    overflow: inherit;	
+}
+.kc-param-row.field-group .kc-add-group {
+    margin: 0px auto 10px;
+    float: left;
+    background: #42BCE2;
+    color: #fff;
+    cursor: pointer;
+    height: 40px;
+    line-height: 42px;
+}
+.kc-param-row.field-group .kc-add-group:hover {
+    background: #2892B3;
+}
+
+/*** Number slider Style  ***/
+.m-p-body .kc_percent_slider {
+    width: calc(100% - 120px);
+    float: left;
+}
+.m-p-body .kc-param-row.field-number_slider .number_slider_field{
+	float: right;
+	width: 100px;
+}
+.kc_percent_slider .fsslider {
+    position: relative;
+    min-width: 150px;
+    height: 30px;
+    margin-top: 3px;
+    display: inline-block;
+    width: 100%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #000;
+    text-align: center;
+    line-height: 30px;
+    font-size: 11px;
+    font-family: "Lucida Grande", "Trebuchet MS", sans-serif;
+    margin-bottom: 10px;
+}
+.kc_percent_slider>.fsslider>* {
+    position: absolute;
+    top: 50%;
+    cursor: pointer
+}
+.kc_percent_slider>.fsslider>.fsfull-value,
+.fsslider>.fssel-value {
+    margin-top: -2px;
+    height: 5px;
+    left: 0;
+    right: 0;
+    border-radius: 10px;
+}
+.kc_percent_slider>.fsslider>.fsfull-value {
+    width: 100%;
+    background: #d8d8d8
+}
+.kc_percent_slider>.fsslider>.fscaret,
+.fsslider>.fssel-left,
+.fsslider>.fssel-right {
+    border-radius: 50%;
+    background: #fff;
+    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    top: 2px;
+    height: 26px;
+    width: 26px;
+}
+.kc_percent_slider>.fsslider>.fscaret>span{
+    position: absolute;
+    top: -25px;
+    min-width: 50px;
+    text-align: center;
+    left: -10px;
+    color: #333 !important;
+}
+.kc_percent_slider>.fsslider>.fscaret.fss-right>span{
+    top: auto;
+    bottom: -25px;
+}
+.kc_percent_slider>.fsslider>.fscaret:hover{
+    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.fscaret {}
+.kc_percent_slider>.fsslider>.fssel-value {
+    background: #55C7EA;
+    height: 5px;
+    margin-top: -2px;
+    right: 50%;
+    border-radius: 10px;
+}
+.kc_percent_slider>.fsslider.fsdisabled {
+    color: #c8c8c8
+}
+.kc_percent_slider>.fsslider.fsdisabled>.fssel-value {
+    background: #c8c8c8
+}
+.kc-param.number_slider_field {
+    width: 100px !important;
+    text-align: left;
+    float: right;
+    padding-left: 10px!important;
+}
+
+
+
+.kc-toggle-field-wrp .switch {
+    float: left;
+    position: relative;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.kc-toggle-field-wrp .switch .toggle-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    cursor: pointer;
+}
+.kc-toggle-field-wrp .toggle-button ~ .toggle-label {
+    display: block;
+    position: relative;
+    height: 30px;
+    width: 70px;
+    border-radius: 18px;
+    background: #e3e7eb;
+    font-size: 12px;
+    color: #888;
+}
+.kc-toggle-field-wrp .toggle-button:hover ~ .toggle-label {
+    background: #ccd4db;		
+}
+.kc-toggle-field-wrp .toggle-button ~ .toggle-handle {
+    position: absolute;
+    left: 3px;
+    top: 3px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: #fff;
+    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    transition: All 0.3s ease;
+    -webkit-transition: All 0.3s ease;
+    -moz-transition: All 0.3s ease;
+    -o-transition: All 0.3s ease;
+}
+.kc-toggle-field-wrp .switch .toggle-button ~ .toggle-label:before {
+    content: attr(data-off);
+    text-transform: uppercase;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    right: 0px;
+    color: #808080;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    font-weight: 800;
+    font-size: 11px;
+    width: 35px;
+    text-align: left;
+    transition: opacity 250ms; 
+}
+.kc-toggle-field-wrp .switch .toggle-button ~ .toggle-label:after {
+    content: attr(data-on);
+    text-transform: uppercase;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    color: #fff;
+    text-shadow: 0 1px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    font-size: 11px;
+    font-weight: 800;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 35px;
+    text-align: right;
+    transition: opacity 250ms; 
+}
+.kc-toggle-field-wrp .toggle-button:checked ~ .toggle-handle {
+    left: 43px;
+}
+
+.kc-toggle-field-wrp .toggle-button:checked ~ .toggle-label {
+    background: #42bce2;
+}
+.kc-toggle-field-wrp .toggle-button:checked:hover ~ .toggle-label {
+    background: #349fc0;
+}
+
+.kc-toggle-field-wrp .toggle-button ~ .toggle-label:after {
+    opacity: 0;
+}
+
+.kc-toggle-field-wrp .toggle-button ~ .toggle-label:before {
+    opacity: 1;
+}
+
+.kc-toggle-field-wrp .toggle-button:checked ~ .toggle-label:after {
+    opacity: 1;
+}
+
+.kc-toggle-field-wrp .toggle-button:checked ~ .toggle-label:before {
+    opacity: 0;
+}
+.kc-param-row.field-toggle .m-p-r-des{
+	display: inherit;
+	clear: none;
+}
+
+.kc-param-row.field-select_group button {
+    float: left;
+    border: none;
+    background: #eee;
+    color: #8e8e8e;
+    margin-right: 1px;
+    cursor: pointer;
+    z-index: 100;
+    text-align: center;
+    height: 35px;
+    min-width: 42px;
+    position: relative;
+    line-height: 32px;
+    transition: all 250ms;
+    padding: 0 10px;
+	margin-bottom: 1px;
+    border-radius: 2px;
+}
+.kc-param-row.field-select_group button.active, 
+.kc-param-row.field-select_group button:hover, 
+.kc-param-row.field-select_group button:focus {
+    background: #42BCE2;
+    border-color: #42BCE2;
+    color: #fff;
+    position: relative;
+    z-index: 101;
+    outline: none;
+}
+.kc-param-row.field-select_group .buttons button:first-child {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+.kc-param-row.field-select_group .buttons button:last-child {
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+.kc-param-row.field-select_group button i {
+    margin: 0;
+    line-height: 1.42857;
+    text-shadow: none;
+}
+.kc-param-row.field-select_group input{
+    width: 80px;
+    text-align: center;
+    margin: 0 0 0 10px;
+}
+.kc-param-row.field-select_group button .tooltip {
+    display: none;
+    border-radius: 2px;
+    position: absolute;
+    background: #333;
+    color: #fff;
+    padding: 0 8px;
+    line-height: 20px;
+    height: 20px;
+    top: -30px;
+    left: 50%;
+    max-width: initial;
+    font-size: 12px;
+    white-space: nowrap;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-style: normal;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.kc-param-row.field-select_group button .tooltip:after {
+    display: none;
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0px;
+    border: 4px solid transparent;
+    border-top: 4px solid #333;
+    bottom: -8px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.kc-param-row.field-select_group button:hover .tooltip, 
+.kc-param-row.field-select_group button:hover .tooltip:after {
+    display: block;
+}
+.kc-param-row.field-number input[type="number"]{
+	float: left;
+	cursor: ns-resize;
+}
+.kc-param-row.field-number ul{
+    float: left;
+    list-style: none;
+    margin: 0px 10px;
+}
+.kc-param-row.field-number ul li{
+	float: left;
+    padding: 1px 12px 2px;
+    cursor: pointer;
+    transition: all 250ms;
+    position: relative;
+    min-width: 42px;
+    margin-right: 1px;
+    background: #eee;
+	color: #8e8e8e;
+    text-align: center;
+    border-radius: 2px;
+    height: 35px;
+    box-sizing: border-box;
+}
+.kc-param-row.field-number ul li:hover,
+.kc-param-row.field-number ul li.active{
+	background: #42BCE2;
+	color: #fff;
+}
+
+.kc-param-row.field-css ul.kc-css-group-nav{
+    margin: 0 0px 15px -15px;
+    float: left;
+    width: calc(100% + 30px);
+    background: #e5e5e5;
+    padding: 0px;
+    color: #fff;
+    position: relative;
+    max-width: initial;
+}
+.kc-param-row.field-css ul.kc-css-group-nav li{
+	float: left;
+    padding: 1px 15px 2px;
+    cursor: pointer;
+    transition: all 250ms;
+    position: relative;
+    min-width: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+    color: #a5a5a5;
+    height: 38px;
+    line-height: 38px;
+    border-right: 1px solid rgba(255,255,255,0.5);
+    text-transform: capitalize;
+}
+.kc-param-row.field-css ul.kc-css-group-nav li.right{
+    float: right;
+    cursor: default;
+    line-height: 13px;
+    font-size: 10px;
+    height: inherit;
+    padding-top: 8px;
+    border: none;
+    color: #fff;
+    position: absolute;
+    top: -25px;
+    background: #dc4d4d;
+    padding: 3px 5px;
+    border-radius: 2px;
+}
+.kc-param-row.field-css ul.kc-css-group-nav li:not(.right):not(.active):hover{
+    background: #ccc;
+    border-color: #ccc;
+    color: #333;
+}
+.kc-param-row.field-css ul.kc-css-group-nav li.active{
+    background: #42bce2;
+    border-color: #42bce2;
+    color: #fff;
+    position: relative;
+}
+.kc-param-row.field-css ul.kc-css-group-nav li.active:after{
+	border: 5px solid transparent;
+    border-top: 5px solid #42bce2;
+    position: absolute;
+    left: 50%;
+    bottom: -10px;
+    content: "";
+    transform: translateX(-50%);
+}
+
+.kc-param-row.field-css .kc-param-row{
+	position: relative;
+}
+.kc-select_group-field-wrp{
+	display: flex;
+}
+.kc-param-row.field-css{
+	border: none;	
+}
+.kc-param-row.field-css .kc-css-hidden{
+    margin: 0px !important;
+    padding: 0px !important;
+    max-height: 0px !important;
+    min-height: 0px !important;
+    overflow: hidden !important;
+    display: block !important;
+    border: none !important;
+    transition: none !important;
+    transform: none !important;
+}
+.kc-param-row.field-css>.m-p-r-label, .kc-param-row.field-css .kc-param-row.field-css_background>.m-p-r-label{
+	display: none;
+}
+.kc-param-row.field-css>.m-p-r-content, .kc-param-row.field-css .kc-param-row.field-css_background>.m-p-r-content{
+	width: 100%;
+}
+.kc-param-row.field-css>.m-p-r-content {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.kc-param-row.field-css .kc-param-row .kc-css-important{
+    position: absolute;
+    top: 0;
+    left: -70px;
+    width: 70px;
+    height: 19px;
+    background: url('../images/css_impt.png') no-repeat left top;
+    background-size: 70px 57px;
+    opacity: 0;
+    cursor: pointer;
+    transition: left 250ms;
+}
+.kc-param-row.field-css .kc-param-row:hover .kc-css-important{
+	opacity: 0.8;
+}
+.kc-param-row.field-css .kc-param-row:hover .kc-css-important:hover{
+	opacity: 1;
+	left: -35px;
+}
+.kc-param-row.field-css .kc-param-row.is-important .kc-css-important{
+	background-position: 0px -19px;
+	opacity: 0.85;
+	width: 40px;
+	left: -15px;
+}
+.kc-param-row.field-css .kc-param-row.is-important .kc-css-important:hover{
+	background-position: 0px -38px;
+	left: -15px;
+}
+.kc-param-row.field-css .kc-css-screen{
+	background: #fafafa;
+	padding: 0 15px;
+}
+.kc-param-row.field-css .kc-css-screens-nav{
+	margin: -10px 0 0 0;
+	padding: 0;
+	list-style: none;
+	text-align: right;
+}
+.kc-param-row.field-css .kc-css-screens-nav li{
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    margin: 0px;
+    cursor: pointer;
+    color: #ccc;
+    font-size: 13px;
+    position: relative;
+}
+.kc-param-row.field-css .kc-css-screens-nav li:hover,
+.kc-param-row.field-css .kc-css-screens-nav li.active{
+	color: #444;
+	position: relative;
+}
+.kc-param-row.field-css .kc-css-screens-nav li:hover:after,
+.kc-param-row.field-css .kc-css-screens-nav li.active:after{
+	border: 5px solid transparent;
+    border-bottom: 5px solid #e5e5e5;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    content: "";
+    transform: translateX(-50%);		
+}
+.kc-param-row.field-css_background{
+	border: none;
+}
+.kc-param-row.field-css_background .kc-param-bg-gradient-colors{
+	padding-bottom: 10px;	
+}
+.kc-param-row.field-css_background .kc-param-bg-gradient-colors input{
+	width: 85%;
+	margin-bottom: 10px;	
+}
+.kc-param-bg-gradient-colors span i.remove{
+	cursor: pointer;
+	margin-left: 10px;
+	color: #EF6161;
+}
+.kc-param-bg-gradient-colors span i.remove:hover{
+	color: #b23b3b;
+}
+.kc-param-row .kc-param-row .kc-corners-wrp{
+	position: relative;
+	height: 160px;
+	width: 320px;
+	margin-bottom: 20px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.kc-param-row .kc-param-row .kc-corners-wrp:after{
+	position: absolute;
+    content: "";
+    height: 130px;
+    width: 205px;
+    top: 16px;
+    left: 30px;
+    border: 1px dashed #ccc;
+    z-index: 0;
+    background: #fafafa;
+}
+.kc-corners-wrp .kc-corners-pos{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 50%;
+	height: 30px;
+	z-index: 2;
+}
+.kc-corners-wrp .kc-corners-pos input{
+	width: 60px;
+	padding: 0;
+	background: #fff;
+	display: inline-block;
+    text-align: center;
+    cursor: ns-resize;
+    border-radius: 2px;
+}
+.kc-corners-wrp .kc-corners-top,
+.kc-corners-wrp .kc-corners-bottom{
+    left: 0px;
+    transform: none;
+    text-align: center;
+    width: 270px;
+}
+.kc-corners-wrp .kc-corners-left,
+.kc-corners-wrp .kc-corners-right{
+	top: 50%;
+	transform: translateY(-50%);
+}
+.kc-corners-wrp .kc-corners-bottom{
+	top: auto;
+	bottom: 0px;	
+}
+.kc-corners-wrp .kc-corners-right{
+    left: auto;
+    right: 0px;
+    text-align: center;
+    width: 170px;
+}
+.kc-corners-wrp .m-f-u-li-link{
+	position: absolute;
+    top: 67px;
+    left: 118px;
+    background: #eee;
+    width: 30px;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+    z-index: 5;
+}
+.kc-corners-wrp .m-f-u-li-link:hover,
+.kc-corners-wrp .m-f-u-li-link.active{
+	background: #42BCE2;
+	color: #fff;
+}
+
+.field-css_border .kc-corners-wrp .kc-corners-pos button {
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    background: #fff;
+    display: inline-block;
+    text-align: center;
+    cursor: ns-resize;
+    border-radius: 100%;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+.field-css_border .kc-corners-wrp .kc-corners-pos button:focus{
+	outline: none;	
+}
+.field-css_border .kc-corners-wrp .kc-corners-pos button.active{
+	background: #42BCE2;
+}
+.field-css_border .kc-corners-wrp .kc-corners-left.kc-corners-pos button {
+	margin-left: 15px;	
+}
+[class*="field-base-border-radius"] .kc-corners-wrp .kc-corners-top{
+	left: 0px;
+    transform: none;
+    text-align: left;
+}
+[class*="field-base-border-radius"] .kc-corners-wrp .kc-corners-right{
+	top: 0px;
+	transform: none;
+}
+[class*="field-base-border-radius"] .kc-corners-wrp .kc-corners-bottom{
+    left: auto;
+    transform: none;
+    right: 0px;
+    width: 170px;
+}
+[class*="field-base-border-radius"] .kc-corners-wrp .kc-corners-left{
+    top: auto;
+    transform: none;
+    bottom: 0px;
+}		</style>
+		<link rel='stylesheet' id='jeg-dynamic-style-css' href='https://www.ohlala.com/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0' media='all' />
+
+</head>
+<body class="wp-singular post-template-default single single-post postid-14124 single-format-standard wp-theme-hello-elementor jkit-color-scheme elementor-default elementor-kit-11731">
+
+
+<a class="skip-link screen-reader-text" href="#content">Zum Inhalt springen</a>
+
+		<div data-elementor-type="header" data-elementor-id="11762" class="elementor elementor-11762 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-1d6ea2af e-flex e-con-boxed e-con e-parent" data-id="1d6ea2af" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5cb5eb86 elementor-widget elementor-widget-heading" data-id="5cb5eb86" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Ohlala, ein Ort, an dem sich Geheimnisse entfalten</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7bd685c7 elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="7bd685c7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-260dbacb e-con-full e-flex e-con e-child" data-id="260dbacb" data-element_type="container">
+				<div class="elementor-element elementor-element-7bcfaf31 animated-slow elementor-invisible elementor-widget elementor-widget-image" data-id="7bcfaf31" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://www.ohlala.com">
+							<img fetchpriority="high" width="381" height="151" src="https://www.ohlala.com/wp-content/uploads/download-56.svg" class="attachment-large size-large wp-image-11562" alt="" decoding="async" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-747a8459 e-con-full e-flex e-con e-child" data-id="747a8459" data-element_type="container">
+				<div class="elementor-element elementor-element-6fb6aac2 elementor-nav-menu__align-center elementor-nav-menu--stretch animated-slow elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-invisible elementor-widget elementor-widget-nav-menu" data-id="6fb6aac2" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none e--animation-slow">
+				<ul id="menu-1-6fb6aac2" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11790"><a href="/#aboutohlala" class="elementor-item elementor-item-anchor">Über uns</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11791"><a href="/#clientfeedback" class="elementor-item elementor-item-anchor">Gemeinschaft</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11792"><a href="/#ourservices" class="elementor-item elementor-item-anchor">Dienstleistungen</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11793"><a href="/blog/" class="elementor-item">Blog</a></li>
+<li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-11888"><a href="#pll_switcher" class="elementor-item elementor-item-anchor">Deutsch</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="lang-item lang-item-2 lang-item-de current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-11888-de"><a href="https://www.ohlala.com/blog/vergleich-pay-per-date-vs-escort/" lang="de-DE" hreflang="de-DE" class="elementor-sub-item">Deutsch</a></li>
+	<li class="lang-item lang-item-5 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-11888-en"><a href="https://www.ohlala.com/en/" lang="en-US" hreflang="en-US" class="elementor-sub-item">English</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menü Umschalter" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>			<span class="elementor-screen-only">Menü</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-6fb6aac2" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11790"><a href="/#aboutohlala" class="elementor-item elementor-item-anchor" tabindex="-1">Über uns</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11791"><a href="/#clientfeedback" class="elementor-item elementor-item-anchor" tabindex="-1">Gemeinschaft</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11792"><a href="/#ourservices" class="elementor-item elementor-item-anchor" tabindex="-1">Dienstleistungen</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11793"><a href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+<li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-11888"><a href="#pll_switcher" class="elementor-item elementor-item-anchor" tabindex="-1">Deutsch</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="lang-item lang-item-2 lang-item-de current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-11888-de"><a href="https://www.ohlala.com/blog/vergleich-pay-per-date-vs-escort/" lang="de-DE" hreflang="de-DE" class="elementor-sub-item" tabindex="-1">Deutsch</a></li>
+	<li class="lang-item lang-item-5 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-11888-en"><a href="https://www.ohlala.com/en/" lang="en-US" hreflang="en-US" class="elementor-sub-item" tabindex="-1">English</a></li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-561fa301 e-con-full e-flex e-con e-child" data-id="561fa301" data-element_type="container">
+				<div class="elementor-element elementor-element-3001c439 animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="3001c439" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://app.ohlala.com/login">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Login</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-98e4a24 e-con-full e-flex e-con e-child" data-id="98e4a24" data-element_type="container">
+				<div class="elementor-element elementor-element-77b2e7bb animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="77b2e7bb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="https://app.ohlala.com/register">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Registrieren</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-49200eee elementor-hidden-desktop elementor-hidden-tablet e-con-full e-flex e-con e-parent" data-id="49200eee" data-element_type="container">
+		<div class="elementor-element elementor-element-5d272cc2 e-con-full e-flex e-con e-child" data-id="5d272cc2" data-element_type="container">
+				<div class="elementor-element elementor-element-ef37274 elementor-widget elementor-widget-image" data-id="ef37274" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://www.ohlala.com">
+							<img fetchpriority="high" width="381" height="151" src="https://www.ohlala.com/wp-content/uploads/download-56.svg" class="attachment-large size-large wp-image-11562" alt="" decoding="async" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d6783bf e-con-full e-flex e-con e-child" data-id="d6783bf" data-element_type="container">
+				<div class="elementor-element elementor-element-f487384 elementor-widget elementor-widget-text-editor" data-id="f487384" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<strong>DE</strong> | <a href="https://www.ohlala.com/en/">EN</a>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1d10262d e-con-full e-flex e-con e-child" data-id="1d10262d" data-element_type="container">
+				<div class="elementor-element elementor-element-464f8719 elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="464f8719" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-464f8719" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12138"><a href="https://app.ohlala.com/register" class="elementor-item">Registrieren</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12139"><a href="https://app.ohlala.com/login" class="elementor-item">Anmelden</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12204"><a href="https://www.ohlala-apparel.com/" class="elementor-item">Merch</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12309"><a href="/blog/" class="elementor-item">Blog</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menü Umschalter" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>			<span class="elementor-screen-only">Menü</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-464f8719" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12138"><a href="https://app.ohlala.com/register" class="elementor-item" tabindex="-1">Registrieren</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12139"><a href="https://app.ohlala.com/login" class="elementor-item" tabindex="-1">Anmelden</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12204"><a href="https://www.ohlala-apparel.com/" class="elementor-item" tabindex="-1">Merch</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12309"><a href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<style>
+  :root {
+    --pink: #e8006f;
+    --pink-light: #ff6db3;
+    --pink-pale: #fff0f7;
+    --dark: #1a0a10;
+    --text-mid: #5a3a4a;
+    --text-light: #9a7a8a;
+    --border: #f0e8ec;
+    --bg: #faf5f8;
+  }
+  .ohlala-single-page { background: #fff; }
+  .ohlala-single-page .hero { position: relative; overflow: hidden; background: var(--dark); }
+  .ohlala-single-page .hero img { width: 100%; height: 460px; object-fit: cover; opacity: 0.4; mix-blend-mode: luminosity; }
+  .ohlala-single-page .hero-fallback { width: 100%; height: 460px; background: radial-gradient(circle at top right, rgba(232,0,111,0.35), transparent 35%), linear-gradient(180deg, rgba(232,0,111,0.2), rgba(26,10,16,1)); }
+  .ohlala-single-page .hero-overlay { position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(232,0,111,0.25) 0%, rgba(26,10,16,0.9) 100%); }
+  .ohlala-single-page .hero-content { position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 1160px; padding: 0 32px 52px; }
+  .breadcrumb { font-size: 12px; color: rgba(255,255,255,0.5); margin-bottom: 14px; }
+  .breadcrumb a { color: rgba(255,255,255,0.5); }
+  .breadcrumb a:hover { color: #fff; }
+  .cat-badge { display: inline-block; color: #fff; font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; padding: 4px 12px; border-radius: 50px; margin-bottom: 14px; }
+  .hero-content h1 { font-family: 'Playfair Display', serif; font-size: 42px; font-weight: 700; line-height: 1.1; color: #fff; margin-bottom: 18px; max-width: 700px; }
+  .hero-meta { font-size: 13px; color: rgba(255,255,255,0.55); display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+  .hero-meta strong { color: rgba(255,255,255,0.85); font-weight: 600; }
+  .hero-meta-sep { width: 1px; height: 14px; background: rgba(255,255,255,0.2); }
+  .ohlala-single-page .page { max-width: 1160px; margin: 0 auto; padding: 56px 32px 96px; display: grid; grid-template-columns: 1fr 300px; gap: 64px; align-items: start; }
+  .article-content, .article-content .wp-block-group__inner-container { font-size: 17px; }
+  .article-content p { font-size: 17px; line-height: 1.85; color: #2d1a22; margin-bottom: 22px; }
+  .article-content h2 { font-family: 'Playfair Display', serif; font-size: 26px; font-weight: 700; line-height: 1.2; margin: 44px 0 14px; }
+  .article-content h2 em { font-style: italic; color: var(--pink); }
+  .article-content h3 { font-size: 18px; font-weight: 600; margin: 32px 0 10px; }
+  .article-content hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+  .article-content ul, .article-content ol { margin: 0 0 22px 0; padding-left: 0; list-style: none; }
+  .article-content ul li, .article-content ol li { font-size: 17px; line-height: 1.75; color: #2d1a22; padding: 8px 0 8px 24px; border-bottom: 1px solid var(--border); position: relative; }
+  .article-content ul li:last-child, .article-content ol li:last-child { border-bottom: none; }
+  .article-content ul li::before { content: ''; position: absolute; left: 0; top: 17px; width: 6px; height: 6px; border-radius: 50%; background: var(--pink); }
+  .article-content ol { counter-reset: n; }
+  .article-content ol li { padding-left: 40px; counter-increment: n; }
+  .article-content ol li::before { content: counter(n); position: absolute; left: 0; top: 8px; width: 24px; height: 24px; border-radius: 50%; background: var(--pink); color: #fff; font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; }
+  .article-content figure { margin: 30px 0; }
+  .article-content figcaption { margin-top: 10px; color: var(--text-light); font-size: 13px; }
+  .article-content blockquote { margin: 28px 0; padding: 24px 24px 24px 28px; border-left: 3px solid var(--pink); background: var(--pink-pale); border-radius: 0 16px 16px 0; }
+  .article-content blockquote p:last-child { margin-bottom: 0; }
+  .article-content a { color: var(--pink); }
+  .post-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 34px; }
+  .post-tag { padding: 8px 14px; border-radius: 50px; border: 1px solid var(--border); color: var(--text-mid); background: var(--bg); font-size: 12px; font-weight: 500; }
+  .faq { margin-top: 64px; padding-top: 40px; border-top: 2px solid var(--border); }
+  .faq-title { font-family: 'Playfair Display', serif; font-size: 26px; font-weight: 700; margin-bottom: 28px; }
+  .faq-title em { font-style: italic; color: var(--pink); }
+  .faq-item { border-bottom: 1px solid var(--border); }
+  .faq-q { width: 100%; background: none; border: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; padding: 18px 0; gap: 16px; text-align: left; font-family: 'DM Sans', sans-serif; }
+  .faq-q span:first-child { font-size: 16px; font-weight: 600; color: var(--dark); line-height: 1.4; transition: color .15s; }
+  .faq-item.open .faq-q span:first-child { color: var(--pink); }
+  .faq-icon { font-size: 22px; color: var(--pink); flex-shrink: 0; transition: transform .2s; line-height: 1; }
+  .faq-item.open .faq-icon { transform: rotate(45deg); }
+  .faq-a { font-size: 16px; line-height: 1.75; color: var(--text-mid); max-height: 0; overflow: hidden; transition: max-height .3s ease, padding .3s ease; }
+  .faq-item.open .faq-a { max-height: 300px; padding-bottom: 18px; }
+  .cta-banner { margin-top: 64px; background: linear-gradient(135deg, var(--pink) 0%, #c4005e 100%); border-radius: 20px; padding: 44px 48px; text-align: center; position: relative; overflow: hidden; }
+  .cta-banner::before { content: ''; position: absolute; top: -60px; right: -60px; width: 220px; height: 220px; border-radius: 50%; background: rgba(255,255,255,0.08); }
+  .cta-banner::after { content: ''; position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; border-radius: 50%; background: rgba(255,255,255,0.05); }
+  .cta-banner-eyebrow, .cta-banner h2, .cta-banner p, .cta-banner-btns { position: relative; z-index: 1; }
+  .cta-banner-eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.65); margin-bottom: 12px; }
+  .cta-banner h2 { font-family: 'Playfair Display', serif; font-size: 34px; font-weight: 700; line-height: 1.15; color: #fff; margin-bottom: 12px; }
+  .cta-banner p { font-size: 16px; color: rgba(255,255,255,0.7); line-height: 1.65; max-width: 480px; margin: 0 auto 28px; }
+  .cta-banner-btns { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .btn-white { background: #fff; color: var(--pink); font-size: 15px; font-weight: 700; padding: 14px 32px; border-radius: 50px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+  .btn-outline { background: transparent; color: #fff !important; font-size: 15px; font-weight: 600; padding: 14px 32px; border-radius: 50px; border: 2px solid rgba(255,255,255,0.4); }
+  .sidebar { display: flex; flex-direction: column; gap: 0; position: sticky; top: 80px; }
+  .sidebar-title { font-family: 'Playfair Display', serif; font-size: 18px; font-weight: 700; color: var(--dark); margin-bottom: 20px; padding-bottom: 14px; border-bottom: 2px solid var(--border); }
+  .sidebar-title em { font-style: italic; color: var(--pink); }
+  .rel-card { display: flex; gap: 14px; padding: 16px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
+  .rel-card:last-child { border-bottom: none; }
+  .rel-thumb { width: 72px; height: 72px; border-radius: 10px; overflow: hidden; flex-shrink: 0; background: linear-gradient(145deg, #fce4f0, #fff0f7); }
+  .rel-thumb img { height: 72px; width: 72px; object-fit: cover; }
+  .rel-info { flex: 1; min-width: 0; }
+  .rel-cat { font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--pink); margin-bottom: 4px; }
+  .rel-card-title { font-size: 14px; font-weight: 600; color: var(--dark); line-height: 1.4; }
+  .rel-meta { font-size: 11px; color: var(--text-light); margin-top: 4px; }
+  @media (max-width: 960px) { .ohlala-single-page .page { grid-template-columns: 1fr; gap: 48px; padding: 36px 20px 60px; } .sidebar { position: static; } .ohlala-single-page .hero img, .ohlala-single-page .hero-fallback { height: 320px; } .ohlala-single-page .hero-content { padding: 0 20px 32px; } .hero-content h1 { font-size: 28px; } .cta-banner { padding: 36px 28px; } .cta-banner h2 { font-size: 26px; } }
+</style>
+
+<div class="ohlala-single-page"><div class="hero">
+      <img src="https://www.ohlala.com/wp-content/uploads/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg" alt="Pay-per-Date vs. Escort 2026: Vergleichstabelle">
+    <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <div class="breadcrumb">
+      <a href="https://www.ohlala.com/blog/">Blog</a>
+              › <a href="https://www.ohlala.com/blog/?blog_category=blog-de">Blog</a>
+            › Pay-per-Date vs. Escort 2026: Vergleichstabelle    </div>
+          <div class="cat-badge" style="background:var(--pink)">Blog</div>
+        <h1>Pay-per-Date vs. Escort 2026: Vergleichstabelle</h1>
+    <div class="hero-meta">
+      <strong>Jan</strong>
+      <span class="hero-meta-sep"></span>
+      <span>2. Juni 2026</span>
+      <span class="hero-meta-sep"></span>
+      <span>3 Min</span>
+    </div>
+  </div>
+</div>
+
+<div class="page">
+  <div>
+    <article>
+      <div class="article-content"><p><strong>Pay-per-Date und Escort sind zwei strukturell unterschiedliche Modelle im bezahlten Bereich, häufig verwechselt aber juristisch klar getrennt:</strong> Pay-per-Date ist agenturfreie Zeit- und Gesellschaftsbegleitung mit transparenter Vergütung pro Treffen, Escort ist klassisch agenturvermittelte Dienstleistung mit Provisions-Abzug und häufig sexueller Komponente.</p>
+<p>Wir bei Ohlala sehen den Vergleich häufig als Frage gestellt, weil beide Modelle pro Treffen abrechnen. Die strukturellen Unterschiede sind aber erheblich.</p>
+<p>Wir bei Ohlala beobachten täglich die Modell-Verwechslung zwischen Pay-per-Date und Escort. Unsere klare Position: Die Modelle sind strukturell, juristisch und wirtschaftlich verschieden. Wir bieten Pay-per-Date bewusst agenturfrei, weil unsere Nutzerinnen damit deutlich höhere Netto-Verdienste erzielen als in Agenturvermittlung. Diese strukturelle Differenz prägt das gesamte Geschäftsmodell.</p>
+<h2>Direktvergleich auf einen Blick</h2>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Pay-per-Date</th>
+<th>Escort (klassisch)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vermittlungsstruktur</td>
+<td>Direkt zwischen Frau und Mann</td>
+<td>Agenturvermittelt</td>
+</tr>
+<tr>
+<td>Provisions-Abzug</td>
+<td>0 %</td>
+<td>30 bis 50 %</td>
+</tr>
+<tr>
+<td>Sexuelle Komponente</td>
+<td>Nicht impliziert</td>
+<td>Häufig impliziert</td>
+</tr>
+<tr>
+<td>Honorar an die Frau</td>
+<td>100 % netto</td>
+<td>50 bis 70 % netto nach Agentur</td>
+</tr>
+<tr>
+<td>Konditions-Hoheit</td>
+<td>Frau setzt</td>
+<td>Agentur typisch</td>
+</tr>
+<tr>
+<td>Juristische Einordnung</td>
+<td>Zivilrechtlich</td>
+<td>Prostituiertenschutzgesetz</td>
+</tr>
+<tr>
+<td>Anmeldepflicht (DE)</td>
+<td>Nein</td>
+<td>Ja, für gewerbliche Sexarbeit</td>
+</tr>
+<tr>
+<td>Plattform-Typ</td>
+<td>Marktplätze (Ohlala)</td>
+<td>Agentur-Vermittler</td>
+</tr>
+</tbody>
+</table>
+<h2>Wirtschaftlicher Vergleich</h2>
+<table>
+<thead>
+<tr>
+<th>Bruttohonorar/Treffen</th>
+<th>Pay-per-Date Netto</th>
+<th>Escort Netto (nach 40 % Provision)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>300 Euro</td>
+<td>300 Euro</td>
+<td>180 Euro</td>
+</tr>
+<tr>
+<td>500 Euro</td>
+<td>500 Euro</td>
+<td>300 Euro</td>
+</tr>
+<tr>
+<td>800 Euro</td>
+<td>800 Euro</td>
+<td>480 Euro</td>
+</tr>
+<tr>
+<td>1.500 Euro</td>
+<td>1.500 Euro</td>
+<td>900 Euro</td>
+</tr>
+</tbody>
+</table>
+<p>Bei gleichem Bruttohonorar verdient eine Pay-per-Date-Anbieterin strukturell deutlich mehr als eine Escort-Anbieterin in Agentur-Vermittlung.</p>
+<h2>Juristischer Vergleich (Deutschland)</h2>
+<table>
+<thead>
+<tr>
+<th>Aspekt</th>
+<th>Pay-per-Date</th>
+<th>Escort</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prostituiertenschutzgesetz</td>
+<td>Nicht direkt anwendbar</td>
+<td>Anwendbar</td>
+</tr>
+<tr>
+<td>Anmeldepflicht</td>
+<td>Nein</td>
+<td>Ja</td>
+</tr>
+<tr>
+<td>Pflicht-Beratungsgespräche</td>
+<td>Nein</td>
+<td>Ja, regelmäßig</td>
+</tr>
+<tr>
+<td>Gesundheits-Pflichten</td>
+<td>Nein</td>
+<td>Ja</td>
+</tr>
+<tr>
+<td>Steuerliche Behandlung</td>
+<td>Individuell, mit Steuerberater klären</td>
+<td>Gewerblich anmeldepflichtig</td>
+</tr>
+</tbody>
+</table>
+<h2>Sicherheits-Vergleich</h2>
+<table>
+<thead>
+<tr>
+<th>Sicherheits-Aspekt</th>
+<th>Pay-per-Date</th>
+<th>Escort</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plattform-KYC</td>
+<td>Verpflichtend auf Ohlala</td>
+<td>Variabel</td>
+</tr>
+<tr>
+<td>Vorab-Verifizierung</td>
+<td>Standard durch Anbieterin</td>
+<td>Agentur prüft Klient</td>
+</tr>
+<tr>
+<td>Physische Sicherheits-Risiken</td>
+<td>Niedrig durch Anbahnung</td>
+<td>Höher durch wechselnde anonyme Klienten</td>
+</tr>
+<tr>
+<td>STI-Risiko</td>
+<td>Sehr niedrig (kein Sex)</td>
+<td>Reguliert durch ProstSchG</td>
+</tr>
+<tr>
+<td>Burnout-Risiko</td>
+<td>Niedrig</td>
+<td>Höher durch Frequenz</td>
+</tr>
+</tbody>
+</table>
+<h2>Für wen welches Modell?</h2>
+<table>
+<thead>
+<tr>
+<th>Frauen-Profil</th>
+<th>Empfehlung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Studentin Einsteigerin</td>
+<td>Pay-per-Date</td>
+</tr>
+<tr>
+<td>Berufseinsteigerin Nebeneinkommen</td>
+<td>Pay-per-Date</td>
+</tr>
+<tr>
+<td>Professionelle Sexarbeiterin</td>
+<td>Escort</td>
+</tr>
+<tr>
+<td>Sexuelle Komponente bewusst gewählt</td>
+<td>Escort</td>
+</tr>
+<tr>
+<td>Reine Zeit- und Gesellschaftsbegleitung</td>
+<td>Pay-per-Date</td>
+</tr>
+<tr>
+<td>Hohe Verdienst-Skalierung gewünscht</td>
+<td>Pay-per-Date (100 % Honorar)</td>
+</tr>
+</tbody>
+</table>
+<h2>FAQ: Häufig gestellte Fragen</h2>
+<p><strong>Ist Pay-per-Date Sexarbeit?</strong></p>
+<p>Nein. Pay-per-Date ist reine Zeit- und Gesellschaftsbegleitung ohne sexuelle Dienstleistungspflicht. Mehr im Lexikon-Eintrag <a href="/lexikon/pay-per-date/">Pay-per-Date</a>.</p>
+<p><strong>Ist Escort dasselbe wie Prostitution?</strong></p>
+<p>Im juristischen Sinn ja. Escort fällt unter das Prostituiertenschutzgesetz, sofern sexuelle Dienstleistung Teil ist.</p>
+<p><strong>Wer verdient mehr: Pay-per-Date oder Escort?</strong></p>
+<p>Pay-per-Date netto strukturell mehr durch fehlenden Provisions-Abzug. Brutto kann Escort höher sein.</p>
+<p><strong>Welches Modell ist sicherer?</strong></p>
+<p>Pay-per-Date typisch sicherer durch längere Anbahnung und Stamm-Beziehungs-Tendenz. Mehr im Wissen-Artikel <a href="/wissen/sicheres-erstes-bezahltes-date/">Sicheres erstes bezahltes Date</a>.</p>
+<p><strong>Brauche ich für Pay-per-Date einen Gewerbeschein?</strong></p>
+<p>Steuerliche und gewerberechtliche Fragen sind individuell und sollten mit Steuerberater oder Anwalt geklärt werden.</p>
+<p><strong>Kann ich von Escort zu Pay-per-Date wechseln?</strong></p>
+<p>Ja, ist möglich. Erfordert Profil-Neupositionierung weg von sexueller Dienstleistung.</p>
+<p><strong>Welches Modell hat höhere DACH-Reichweite?</strong></p>
+<p>Beide etabliert. Pay-per-Date wächst stärker durch Diskretions- und Sicherheits-Vorteile.</p>
+<p><strong>Welches Modell für absolute Anfängerinnen?</strong></p>
+<p>Pay-per-Date wegen niederschwelligerer Einstiegs-Anforderungen und klarerer juristischer Abgrenzung.</p>
+<p>&#8212;</p>
+<p>Wer <strong>Pay-per-Date vs. Escort</strong> verstanden hat, sieht die strukturelle Differenz: agenturfrei mit voller Vergütung vs. agenturvermittelt mit Provisions-Abzug. Auf ohlala.com bieten wir Pay-per-Date. Mehr im Wissen-Artikel <a href="/wissen/sugar-baby-vs-escort-vergleich/">Sugar Baby vs. Escort Vergleich</a>.</p>
+<p><script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Pay-per-Date vs. Escort 2026","description":"Pay-per-Date vs. Escort: Modell, Recht, Verdienst, Sicherheit.","datePublished":"2026-05-30","dateModified":"2026-05-30","inLanguage":"de","author":{"@type":"Organization","name":"Ohlala Redaktion","url":"https://www.ohlala.com/ueber-uns/"},"publisher":{"@type":"Organization","name":"Ohlala","url":"https://www.ohlala.com/","logo":{"@type":"ImageObject","url":"https://www.ohlala.com/static/logo.png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.ohlala.com/vergleich/pay-per-date-vs-escort/"}}
+</script></p>
+<p><script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"Ist Pay-per-Date Sexarbeit?","acceptedAnswer":{"@type":"Answer","text":"Nein. Pay-per-Date ist reine Zeit- und Gesellschaftsbegleitung ohne sexuelle Dienstleistungspflicht."}},
+{"@type":"Question","name":"Ist Escort dasselbe wie Prostitution?","acceptedAnswer":{"@type":"Answer","text":"Im juristischen Sinn ja. Escort fällt unter das Prostituiertenschutzgesetz."}},
+{"@type":"Question","name":"Wer verdient mehr?","acceptedAnswer":{"@type":"Answer","text":"Pay-per-Date netto strukturell mehr durch fehlenden Provisions-Abzug."}},
+{"@type":"Question","name":"Welches Modell ist sicherer?","acceptedAnswer":{"@type":"Answer","text":"Pay-per-Date typisch sicherer durch längere Anbahnung."}},
+{"@type":"Question","name":"Brauche ich für Pay-per-Date einen Gewerbeschein?","acceptedAnswer":{"@type":"Answer","text":"Steuerliche und gewerberechtliche Fragen sind individuell, mit Steuerberater klären."}},
+{"@type":"Question","name":"Kann ich von Escort zu Pay-per-Date wechseln?","acceptedAnswer":{"@type":"Answer","text":"Ja, möglich. Erfordert Profil-Neupositionierung."}},
+{"@type":"Question","name":"Welches Modell hat höhere DACH-Reichweite?","acceptedAnswer":{"@type":"Answer","text":"Beide etabliert. Pay-per-Date wächst stärker."}},
+{"@type":"Question","name":"Welches Modell für Anfängerinnen?","acceptedAnswer":{"@type":"Answer","text":"Pay-per-Date wegen niederschwelligerer Einstiegs-Anforderungen."}}
+]}
+</script></p>
+</div>
+
+      
+          </article>
+
+    <div class="cta-banner">
+      <div class="cta-banner-eyebrow">Kostenlos starten</div>
+      <h2>Bereit für dein <em>perfektes Date?</em></h2>
+      <p>Melde dich jetzt kostenlos bei Ohlala an, entdecke echte Date-Inserate und bewirb dich direkt – ganz ohne Swipen.</p>
+      <div class="cta-banner-btns">
+        <a href="https://app.ohlala.com/register?utm_source=website&#038;utm_medium=blog&#038;utm_campaign=blog-register" class="btn-white">Jetzt kostenlos anmelden</a>
+        <a href="https://app.ohlala.com/login?utm_source=website&#038;utm_medium=blog&#038;utm_campaign=blog-login" class="btn-outline">Mehr erfahren</a>
+      </div>
+    </div>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-title">Ähnliche <em>Artikel</em></div>
+                          <a class="rel-card" href="https://www.ohlala.com/blog/wissen-bezahltes-dating-in-berlin/">
+          <div class="rel-thumb"><img src="https://www.ohlala.com/wp-content/uploads/lexikon-chat-unlock-150x150.jpg" alt="Bezahltes Dating in Berlin 2026: Der Stadt-Guide"></div>
+          <div class="rel-info">
+            <div class="rel-cat">Blog</div>            <div class="rel-card-title">Bezahltes Dating in Berlin 2026: Der Stadt-Guide</div>
+            <div class="rel-meta">6 Min · Jan</div>
+          </div>
+        </a>
+                      <a class="rel-card" href="https://www.ohlala.com/blog/vergleich-sugar-dating-deutschland-vs-international/">
+          <div class="rel-thumb"><img src="https://www.ohlala.com/wp-content/uploads/4439866163_d41981c94e_o-300x200-1-150x150.jpg" alt="Sugar Dating Deutschland vs. International 2026: Vergleich"></div>
+          <div class="rel-info">
+            <div class="rel-cat">Blog</div>            <div class="rel-card-title">Sugar Dating Deutschland vs. International 2026: Vergleich</div>
+            <div class="rel-meta">3 Min · Jan</div>
+          </div>
+        </a>
+                      <a class="rel-card" href="https://www.ohlala.com/blog/vergleich-bezahltes-dating-plattformen-uebersicht/">
+          <div class="rel-thumb"><img src="https://www.ohlala.com/wp-content/uploads/3080241771_cf7342b55c_o-2-300x201-1-150x150.webp" alt="Bezahltes Dating Plattformen DACH 2026: Übersichtstabelle"></div>
+          <div class="rel-info">
+            <div class="rel-cat">Blog</div>            <div class="rel-card-title">Bezahltes Dating Plattformen DACH 2026: Übersichtstabelle</div>
+            <div class="rel-meta">4 Min · Jan</div>
+          </div>
+        </a>
+                      <a class="rel-card" href="https://www.ohlala.com/blog/lexikon-vorab-verifizierung/">
+          <div class="rel-thumb"><img src="https://www.ohlala.com/wp-content/uploads/lexikon-vorab-verifizierung-150x150.jpg" alt="Vorab-Verifizierung im Dating, Definition &#038; Sinn"></div>
+          <div class="rel-info">
+            <div class="rel-cat">Blog</div>            <div class="rel-card-title">Vorab-Verifizierung im Dating, Definition &#038; Sinn</div>
+            <div class="rel-meta">3 Min · Jan</div>
+          </div>
+        </a>
+                      <a class="rel-card" href="https://www.ohlala.com/blog/vergleich-ohlala-vs-sugardaters/">
+          <div class="rel-thumb"><img src="https://www.ohlala.com/wp-content/uploads/vergleich-ohlala-vs-sugardaters-150x150.jpg" alt="Ohlala vs. Sugardaters 2026: International vs. DACH Sugar Dating"></div>
+          <div class="rel-info">
+            <div class="rel-cat">Blog</div>            <div class="rel-card-title">Ohlala vs. Sugardaters 2026: International vs. DACH Sugar Dating</div>
+            <div class="rel-meta">7 Min · Jan</div>
+          </div>
+        </a>
+            </aside>
+</div></div>
+
+<script>
+  document.querySelectorAll('.faq-q').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const item = btn.parentElement;
+      const isOpen = item.classList.contains('open');
+
+      document.querySelectorAll('.faq-item').forEach((faqItem) => {
+        faqItem.classList.remove('open');
+        const toggle = faqItem.querySelector('.faq-q');
+        if (toggle) {
+          toggle.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      if (!isOpen) {
+        item.classList.add('open');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+</script>
+
+		<div data-elementor-type="footer" data-elementor-id="11759" class="elementor elementor-11759 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-3777f317 e-flex e-con-boxed e-con e-parent" data-id="3777f317" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-25e2cc48 e-con-full e-flex e-con e-child" data-id="25e2cc48" data-element_type="container">
+				<div class="elementor-element elementor-element-4ec66e1b elementor-widget elementor-widget-image" data-id="4ec66e1b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://www.ohlala.com">
+							<img width="381" height="151" src="https://www.ohlala.com/wp-content/uploads/download-56.svg" class="attachment-large size-large wp-image-11562" alt="" decoding="async" />								</a>
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-56b3845f elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="56b3845f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Entdecken Sie Premium-Dating-Dienste bei Ohlala, wo atemberaubende Content-Ersteller sich mit Bewunderern verbinden und durch den Verkauf exklusiver Inhalte Geld verdienen. Treten Sie noch heute bei, um einzigartige, personalisierte Verbindungen zu erleben.						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fb6265a e-con-full e-flex e-con e-child" data-id="fb6265a" data-element_type="container">
+				<div class="elementor-element elementor-element-24dff890 elementor-widget elementor-widget-heading" data-id="24dff890" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Unternehmen</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-75994ab0 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="75994ab0" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/#aboutohlala">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Über uns</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/#ourservices">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Dienstleistungen</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/#becomeacreator">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Werde Content-Ersteller</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Vernetzen & Daten</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Monetarisierung</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.ohlala-apparel.com/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Merch</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://app.ohlala.com/login">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Login</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://app.ohlala.com/register">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Melden Sie sich an</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4b3fd6b e-con-full e-flex e-con e-child" data-id="4b3fd6b" data-element_type="container">
+				<div class="elementor-element elementor-element-2c4b608 elementor-widget elementor-widget-heading" data-id="2c4b608" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Privatsphäre</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4c56aa21 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4c56aa21" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://www.ohlala.com/impressum/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Impressum</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.ohlala.com/datenschutz/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">datenschutz</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.ohlala.com/agb/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">AGB</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://support.ohlala.com/knowledgebase">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">FAQ</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://support.ohlala.com/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Support & Kontakt</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.ohlala.com/interne-richtlinie-zur-inhaltsuberwachung/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Interne Richtlinie zur Inhaltsüberwachung</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://www.ohlala.com/18-u-s-c-%c2%a72257-erklaerung-zur-aufbewahrungspflicht/">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-double-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34zm192-34l-136-136c-9.4-9.4-24.6-9.4-33.9 0l-22.6 22.6c-9.4 9.4-9.4 24.6 0 33.9l96.4 96.4-96.4 96.4c-9.4 9.4-9.4 24.6 0 33.9l22.6 22.6c9.4 9.4 24.6 9.4 33.9 0l136-136c9.4-9.2 9.4-24.4 0-33.8z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">18 U.S.C. §2257 Erklärung zur Aufbewahrungspflicht</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2eaf54f7 e-con-full e-flex e-con e-child" data-id="2eaf54f7" data-element_type="container">
+				<div class="elementor-element elementor-element-6ab022e1 elementor-widget elementor-widget-heading" data-id="6ab022e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Kontakt</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2cc296af elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2cc296af" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://www.instagram.com/ohlalaapp?igsh=MWtqbGpzbGgzN2hmNA%3D%3D&#038;utm_source=qr%20">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="icon icon-instagram-1"></i>						</span>
+										<span class="elementor-icon-list-text">Instagram</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://x.com/ohlaladating?s=21">
+
+												<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-x-twitter-square" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">X</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!--googleoff: all--><div data-nosnippet><script id="BorlabsCookieBoxWrap" type="text/template"><div
+    id="BorlabsCookieBox"
+    class="BorlabsCookie"
+    role="dialog"
+    aria-labelledby="CookieBoxTextHeadline"
+    aria-describedby="CookieBoxTextDescription"
+    aria-modal="true"
+>
+    <div class="top-center" style="display: none;">
+        <div class="_brlbs-box-wrap">
+            <div class="_brlbs-box _brlbs-box-advanced">
+                <div class="cookie-box">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="_brlbs-flex-center">
+                                    
+                                    <span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">Datenschutzeinstellungen</span>
+                                </div>
+
+                                <p id="CookieBoxTextDescription">Diese Webseite verwendet Cookies und ähnliche Technologien. Mit einem Klick auf „Alle akzeptieren“ akzeptieren Sie die Verarbeitung der Daten, die Webseiten- sowie partner- und geräteübergreifende Erstellung und Verarbeitung von individuellen Nutzungsprofilen sowie die Weitergabe Ihrer Daten an Drittanbieter, die zum Teil Ihre Daten in Ländern außerhalb der europäischen Union verarbeiten (DSGVO Art. 49). Die Daten werden für Analysen, Retargeting und zur Ausspielung von personalisierten Inhalten auf Seiten der Spreefang GmbH, sowie zusätzlich zur Ausspielung von Werbung auf Drittanbieterseiten und zu eigenen Zwecken Dritter genutzt. Weitere Informationen, auch zur Datenverarbeitung durch Drittanbieter und zum jederzeit möglichen Widerrufs Ihrer Einwilligung, finden Sie in unseren Datenschutzhinweisen.</p>
+
+                                                                    <ul>
+                                                                                <li>
+                                                <label class="_brlbs-checkbox">
+                                                    Essenziell                                                    <input
+                                                        id="checkbox-essential"
+                                                        tabindex="0"
+                                                        type="checkbox"
+                                                        name="cookieGroup[]"
+                                                        value="essential"
+                                                         checked                                                         disabled                                                        data-borlabs-cookie-checkbox
+                                                    >
+                                                    <span class="_brlbs-checkbox-indicator"></span>
+                                                </label>
+                                            </li>
+                                                                                    <li>
+                                                <label class="_brlbs-checkbox">
+                                                    Statistiken                                                    <input
+                                                        id="checkbox-statistics"
+                                                        tabindex="0"
+                                                        type="checkbox"
+                                                        name="cookieGroup[]"
+                                                        value="statistics"
+                                                         checked                                                                                                                data-borlabs-cookie-checkbox
+                                                    >
+                                                    <span class="_brlbs-checkbox-indicator"></span>
+                                                </label>
+                                            </li>
+                                                                                    <li>
+                                                <label class="_brlbs-checkbox">
+                                                    Marketing                                                    <input
+                                                        id="checkbox-marketing"
+                                                        tabindex="0"
+                                                        type="checkbox"
+                                                        name="cookieGroup[]"
+                                                        value="marketing"
+                                                         checked                                                                                                                data-borlabs-cookie-checkbox
+                                                    >
+                                                    <span class="_brlbs-checkbox-indicator"></span>
+                                                </label>
+                                            </li>
+                                                                            </ul>
+                                
+                                                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                    </p>
+
+                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            id="CookieBoxSaveButton"
+                                            class="_brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Speichern                                        </a>
+                                    </p>
+                                
+                                
+                                <p class="_brlbs-manage">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Individuelle Datenschutzeinstellungen                                    </a>
+                                </p>
+
+                                <p class="_brlbs-legal">
+                                    <a href="#" class="_brlbs-cursor" tabindex="0" role="button" data-cookie-individual>
+                                        Cookie-Details                                    </a>
+
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://www.ohlala.com/datenschutz/" tabindex="0" role="button">
+                                            Datenschutzerklärung                                        </a>
+                                    
+                                                                            <span class="_brlbs-separator"></span>
+                                        <a href="https://www.ohlala.com/impressum/" tabindex="0" role="button">
+                                            Impressum                                        </a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class="cookie-preference"
+    aria-hidden="true"
+    role="dialog"
+    aria-describedby="CookiePrefDescription"
+    aria-modal="true"
+>
+    <div class="container not-visible">
+        <div class="row no-gutters">
+            <div class="col-12">
+                <div class="row no-gutters align-items-top">
+                    
+                    <div class="col-12">
+                        <span role="heading" aria-level="3" class="_brlbs-h3">Datenschutzeinstellungen</span>
+
+                        <p id="CookiePrefDescription">
+                            Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.                        </p>
+
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-12 col-sm-7">
+                                <p class="_brlbs-accept">
+                                                                            <a
+                                            href="#"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex="0"
+                                            role="button"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                    
+                                    <a
+                                        href="#"
+                                        id="CookiePrefSave"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Speichern                                    </a>
+                                </p>
+                            </div>
+
+                            <div class="col-12 col-sm-5">
+                                <p class="_brlbs-refuse">
+                                    <a
+                                        href="#"
+                                        class="_brlbs-cursor"
+                                        tabindex="0"
+                                        role="button"
+                                        data-cookie-back
+                                    >
+                                        Zurück                                    </a>
+
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                                                                                        <div class="bcac-item">
+                                    <div class="d-flex flex-row">
+                                        <label for="borlabs-cookie-group-essential" class="w-75">
+                                            <span role="heading" aria-level="4" class="_brlbs-h4">Essenziell (3)</span >
+                                        </label>
+
+                                        <div class="w-25 text-right">
+                                                                                    </div>
+                                    </div>
+
+                                    <div class="d-block">
+                                        <p>Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.</p>
+
+                                        <p class="text-center">
+                                            <a
+                                                href="#"
+                                                class="_brlbs-cursor d-block"
+                                                tabindex="0"
+                                                role="button"
+                                                data-cookie-accordion-target="essential"
+                                            >
+                                                <span data-cookie-accordion-status="show">
+                                                    Cookie-Informationen anzeigen                                                </span>
+
+                                                <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                    Cookie-Informationen ausblenden                                                </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class="borlabs-hide"
+                                        data-cookie-accordion-parent="essential"
+                                    >
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-borlabs-cookie">
+                                                            Borlabs Cookie                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Eigentümer dieser Website</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Speichert die Einstellungen der Besucher, die in der Cookie Box von Borlabs Cookie ausgewählt wurden.</td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>borlabs-cookie</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>1 Jahr</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-google-tag-manager">
+                                                            Google Tag Manager                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Google LLC</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Cookie von Google zur Steuerung der erweiterten Script- und Ereignisbehandlung.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://policies.google.com/privacy?hl=de"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy?hl=de                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>_ga,_gat,_gid</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>2 Jahre</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-polylang">
+                                                            Polylang                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Eigentümer dieser Website</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Speichert die aktuelle Sprache.</td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>pll_language</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>1 Jahr</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                <div class="bcac-item">
+                                    <div class="d-flex flex-row">
+                                        <label for="borlabs-cookie-group-statistics" class="w-75">
+                                            <span role="heading" aria-level="4" class="_brlbs-h4">Statistiken (1)</span >
+                                        </label>
+
+                                        <div class="w-25 text-right">
+                                                                                            <label class="_brlbs-btn-switch">
+                                                    <input
+                                                        tabindex="0"
+                                                        id="borlabs-cookie-group-statistics"
+                                                        type="checkbox"
+                                                        name="cookieGroup[]"
+                                                        value="statistics"
+                                                         checked                                                        data-borlabs-cookie-switch
+                                                    />
+                                                    <span class="_brlbs-slider"></span>
+                                                    <span
+                                                        class="_brlbs-btn-switch-status"
+                                                        data-active="An"
+                                                        data-inactive="Aus">
+                                                    </span>
+                                                </label>
+                                                                                    </div>
+                                    </div>
+
+                                    <div class="d-block">
+                                        <p>Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.</p>
+
+                                        <p class="text-center">
+                                            <a
+                                                href="#"
+                                                class="_brlbs-cursor d-block"
+                                                tabindex="0"
+                                                role="button"
+                                                data-cookie-accordion-target="statistics"
+                                            >
+                                                <span data-cookie-accordion-status="show">
+                                                    Cookie-Informationen anzeigen                                                </span>
+
+                                                <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                    Cookie-Informationen ausblenden                                                </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class="borlabs-hide"
+                                        data-cookie-accordion-parent="statistics"
+                                    >
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-google-analytics"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="statistics"
+                                                                    name="cookies[statistics][]"
+                                                                    value="google-analytics"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-google-analytics">
+                                                            Google Analytics                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Google LLC</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Cookie von Google für Website-Analysen. Erzeugt statistische Daten darüber, wie der Besucher die Website nutzt.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://policies.google.com/privacy?hl=de"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy?hl=de                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>_ga,_gat,_gid</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>2 Jahre</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                <div class="bcac-item">
+                                    <div class="d-flex flex-row">
+                                        <label for="borlabs-cookie-group-marketing" class="w-75">
+                                            <span role="heading" aria-level="4" class="_brlbs-h4">Marketing (2)</span >
+                                        </label>
+
+                                        <div class="w-25 text-right">
+                                                                                            <label class="_brlbs-btn-switch">
+                                                    <input
+                                                        tabindex="0"
+                                                        id="borlabs-cookie-group-marketing"
+                                                        type="checkbox"
+                                                        name="cookieGroup[]"
+                                                        value="marketing"
+                                                         checked                                                        data-borlabs-cookie-switch
+                                                    />
+                                                    <span class="_brlbs-slider"></span>
+                                                    <span
+                                                        class="_brlbs-btn-switch-status"
+                                                        data-active="An"
+                                                        data-inactive="Aus">
+                                                    </span>
+                                                </label>
+                                                                                    </div>
+                                    </div>
+
+                                    <div class="d-block">
+                                        <p>Marketing-Cookies werden von Drittanbietern oder Publishern verwendet, um personalisierte Werbung anzuzeigen. Sie tun dies, indem sie Besucher über Websites hinweg verfolgen.</p>
+
+                                        <p class="text-center">
+                                            <a
+                                                href="#"
+                                                class="_brlbs-cursor d-block"
+                                                tabindex="0"
+                                                role="button"
+                                                data-cookie-accordion-target="marketing"
+                                            >
+                                                <span data-cookie-accordion-status="show">
+                                                    Cookie-Informationen anzeigen                                                </span>
+
+                                                <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                    Cookie-Informationen ausblenden                                                </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class="borlabs-hide"
+                                        data-cookie-accordion-parent="marketing"
+                                    >
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-tj_pt"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="marketing"
+                                                                    name="cookies[marketing][]"
+                                                                    value="tj_pt"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-tj_pt">
+                                                            TrafficJunky Ads                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>trafficjunky.com</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Dieses Cookie wird gesetzt, wenn ein User über einen Klick auf eine TrafficJunky Werbeanzeige auf die Website gelangt.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://www.trafficjunky.com/privacy-policy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://www.trafficjunky.com/privacy-policy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>tj_pt</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>3 Monaten</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-conversion_linker"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="marketing"
+                                                                    name="cookies[marketing][]"
+                                                                    value="conversion_linker"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-conversion_linker">
+                                                            Google Conversion Linker                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Google</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Dieses Cookie wird gesetzt, wenn ein User über einen Klick auf eine Google Werbeanzeige auf die Website gelangt.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://policies.google.com/privacy?hl=de"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy?hl=de                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>_gcl</td>
+                                                    </tr>
+                                                
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                                            </div>
+
+                <div class="d-flex justify-content-between">
+                    <p class="_brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class="_brlbs-legal flex-fill">
+                                                    <a href="https://www.ohlala.com/datenschutz/">
+                                Datenschutzerklärung                            </a>
+                        
+                                                    <span class="_brlbs-separator"></span>
+                        
+                                                    <a href="https://www.ohlala.com/impressum/">
+                                Impressum                            </a>
+                                            </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+</script></div><!--googleon: all-->			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script src="https://www.ohlala.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://www.ohlala.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2026-04-05 02:28:42+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"This contact form is placed in the wrong place.":["Dieses Kontaktformular wurde an der falschen Stelle platziert."],"Error:":["Fehler:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.ohlala.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
+<script id="pll_cookie_script-js-after">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=de; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+//# sourceURL=pll_cookie_script-js-after
+</script>
+<script src="https://www.ohlala.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1" id="hello-theme-frontend-js"></script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.3" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://www.ohlala.com/wp-json/elementskit/v1/',
+		}
+
+		
+//# sourceURL=elementskit-framework-js-frontend-js-after
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.3" id="ekit-widget-scripts-js"></script>
+<script id="borlabs-cookie-js-extra">
+var borlabsCookieConfig = {"ajaxURL":"https://www.ohlala.com/wp-admin/admin-ajax.php","language":"de","animation":"1","animationDelay":"","animationIn":"fadeInDown","animationOut":"flipOutX","blockContent":"1","boxLayout":"box","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"","cookieDomain":"www.ohlala.com","cookiePath":"/","cookieLifetime":"365","crossDomainCookie":[],"cookieBeforeConsent":"","cookiesForBots":"1","cookieVersion":"1","hideCookieBoxOnPages":["https://www.ohlala.com/datenschutz/","https://www.ohlala.com/impressum/"],"respectDoNotTrack":"","reloadAfterConsent":"","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie","google-tag-manager","polylang"],"statistics":["google-analytics"],"marketing":["tj_pt","conversion_linker"],"external-media":[]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"}},"google-tag-manager":{"cookieNameList":{"_ga":"_ga","_gat":"_gat","_gid":"_gid"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"1","gtmId":"GTM-WJZK23H"},"optInJS":"","optOutJS":""},"polylang":{"cookieNameList":{"pll_language":"pll_language"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0"}}},"statistics":{"google-analytics":{"cookieNameList":{"_ga":"_ga","_gat":"_gat","_gid":"_gid"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"1","trackingId":"irrelevant"},"optInJS":"","optOutJS":""}},"marketing":{"tj_pt":{"cookieNameList":{"tj_pt":"tj_pt"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"1"},"optInJS":"","optOutJS":""},"conversion_linker":{"cookieNameList":{"_gcl":"_gcl"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"1"},"optInJS":"","optOutJS":""}}};
+//# sourceURL=borlabs-cookie-js-extra
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min.js?ver=2.2.24" id="borlabs-cookie-js"></script>
+<script id="borlabs-cookie-js-after">
+document.addEventListener("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"facebook": {"id": "facebook","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if(typeof FB === "object") { FB.XFBML.parse(el.parentElement); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"saveThumbnails":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"changeURLToNoCookie":true,"saveThumbnails":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized !== "object") {
+            borlabsCookiePrioritized = { optInJS: {} };
+        }
+
+        window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout(BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck();});
+//# sourceURL=borlabs-cookie-js-after
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.24.4" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.24.6" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.24.6" id="elementor-frontend-modules-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.ohlala.com\/wp-admin\/admin-ajax.php","nonce":"e7e96e26f2","urls":{"assets":"https:\/\/www.ohlala.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.ohlala.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"de_DE","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.ohlala.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.24.4" id="elementor-pro-frontend-js"></script>
+<script src="https://www.ohlala.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Auf Facebook teilen","shareOnTwitter":"Auf Twitter teilen","pinIt":"Anheften","download":"Download","downloadImage":"Bild downloaden","fullscreen":"Vollbild","zoom":"Zoom","share":"Teilen","playVideo":"Video abspielen","previous":"Zur\u00fcck","next":"Weiter","close":"Schlie\u00dfen","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Breitbild","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.24.6","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"home_screen":true,"ai-layout":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true,"display-conditions":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.ohlala.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.ohlala.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.ohlala.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"0ea8009508"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":14124,"title":"Pay-per-Date%20vs.%20Escort%202026%3A%20Vergleichstabelle%20%7C%20Ohlala","excerpt":"","featuredImage":"https:\/\/www.ohlala.com\/wp-content\/uploads\/0F78C9AE-6845-4A2F-86A9-668014406A37-169x300-150x150-1.jpg"}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.6" id="elementor-frontend-js"></script>
+<script id="elementor-frontend-js-after">
+var jkit_ajax_url = "https://www.ohlala.com/?jkit-ajax-request=jkit_elements", jkit_nonce = "1da5ad8cc0";
+//# sourceURL=elementor-frontend-js-after
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.24.4" id="pro-elements-handlers-js"></script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.7.3" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https://www.ohlala.com/wp-admin/admin-ajax.php","nonce":"6d685af824"};
+//# sourceURL=elementskit-elementor-js-extra
+</script>
+<script src="https://www.ohlala.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.7.3" id="elementskit-elementor-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.ohlala.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.ohlala.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html><!-- WP Fastest Cache file was created in 0.302 seconds, on 2. June 2026 @ 11:36 --><!-- via php -->''']
 
 testing = DomainSampler(len(art_list))
 #print(testing.get_min_sample_size())
 #k = testing.preprocess_html(art_list)
 #print(k)
 #print(type(k[0]), type(k[1]), type(k[2]))
-print(testing.topic_analysis(['www.medium.com','www.ohlala.com','lolo.com','www.ohlala.com'],art_list))
+print(testing.topic_analysis(['www.medium.com','www.ohlala.com/general','lolo.com','www.ohlala.com/date','www.ohlala.com/new'],art_list))
