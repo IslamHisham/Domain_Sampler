@@ -153,6 +153,10 @@ class DomainSampler():
         :param urls: list fo the urls sample from limited population theory
         :param articles: list of articles HTML content
         """ 
+        # Validate that urls and articles have the same length
+        if len(urls) != len(articles):
+            raise ValueError(f"The number of URLs ({len(urls)}) must match the number of articles ({len(articles)})")
+        
         cleaned_articles = [art['text'] for art in tqdm(self.preprocess_html(articles))]
         art_lens = [len(art.split()) for art in cleaned_articles]
         topics, probs = self.topic_model.transform(cleaned_articles, embeddings = self.embeddings)
