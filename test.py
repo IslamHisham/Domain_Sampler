@@ -10405,6 +10405,7 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 </html><!-- WP Fastest Cache file was created in 0.302 seconds, on 2. June 2026 @ 11:36 --><!-- via php -->''']
 
 testing = DomainSampler(len(art_list))
+print(testing.topic_representations)
 #print(testing.get_min_sample_size())
 #k = testing.preprocess_html(art_list)
 #print(k)
