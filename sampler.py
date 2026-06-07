@@ -167,9 +167,12 @@ class DomainSampler():
         art_lens = [len(art.split()) for art in cleaned_articles]
 
         if deep_analysis:
-            topic_distr, _ = self.topic_model.approximate_distribution(cleaned_articles,
-                                                        window=4, stride=1, use_embedding_model=True,
-                                                        embeddings=self.embeddings)
+            topic_distr, _ = self.topic_model.approximate_distribution(
+                cleaned_articles,
+                window=4,
+                stride=1,
+                use_embedding_model=True,
+            )
             top_3_topics, top_3_probabs = [], []
             for i, doc_distribution in enumerate(topic_distr):
                 top_3_indices = np.argsort(doc_distribution)[::-1][:3]
