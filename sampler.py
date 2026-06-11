@@ -65,8 +65,8 @@ class DomainSampler():
             self.topic_representations = self.topic_model.get_topic_info() #shows the representative words per topic
         except:
             raise ValueError(f"BERTopic model could not be loaded from the path: {bert_model_path}. Please check the path and try again.")
-
-    def get_min_sample_size(self)->int:
+    @staticmethod
+    def get_min_sample_size(pop_size: int, confidence: float, margin_error: float)->int:
         """
         Calculates minimum sample size for a finite population.
 
@@ -76,16 +76,16 @@ class DomainSampler():
         """
         # 1. Get Z-score based on confidence level
         # Use 1 - (1 - confidence) / 2 to get the two-tailed critical value
-        z = stats.norm.ppf(1 - (1 - self.confidence) / 2)
+        z = stats.norm.ppf(1 - (1 - confidence) / 2)
 
         # 2. Set estimated proportion (0.5 provides the safest/maximum sample size)
         p = 0.5
 
         # 3. Cochran's formula for infinite population
-        n_0 = (z**2 * p * (1 - p)) / (self.margin_error**2)
+        n_0 = (z**2 * p * (1 - p)) / (margin_error**2)
 
         # 4. Adjust for finite population (Finite Population Correction)
-        n = n_0 / (1 + ((n_0 - 1) / self.pop_size))
+        n = n_0 / (1 + ((n_0 - 1) / pop_size))
 
         return math.ceil(n)
     
@@ -157,7 +157,8 @@ class DomainSampler():
 
         :param urls: list fo the urls sample from limited population theory
         :param articles: list of articles HTML content
-        :param deep_analysis: flag to indicate whether to perform deep analysis and get top 3 topic with their probabilities
+        :param deep_analysis: flag to indicate whether to perform deep analysis 
+        and get top 3 topic with their probabilities. However, you can't use pre-calculated embeddings with it.
         """ 
         # Validate that urls and articles have the same length
         if len(urls) != len(articles):
@@ -167,12 +168,8 @@ class DomainSampler():
         art_lens = [len(art.split()) for art in cleaned_articles]
 
         if deep_analysis:
-            topic_distr, _ = self.topic_model.approximate_distribution(
-                cleaned_articles,
-                window=4,
-                stride=1,
-                use_embedding_model=True,
-            )
+            topic_distr, _ = self.topic_model.approximate_distribution(cleaned_articles,
+                                                        window=4, stride=1, use_embedding_model=True)
             top_3_topics, top_3_probabs = [], []
             for i, doc_distribution in enumerate(topic_distr):
                 top_3_indices = np.argsort(doc_distribution)[::-1][:3]
@@ -194,5 +191,3 @@ class DomainSampler():
             .apply(list)
             .reset_index(name="ordered_urls"))        
         return [analysis_df, result_df]
-
-
