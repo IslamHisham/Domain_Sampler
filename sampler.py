@@ -89,14 +89,14 @@ class DomainSampler():
 
         return math.ceil(n)
 
-    def get_gaussian_weights(self, input_list):
+    def get_gaussian_weights(self, input_list: list)->np.ndarray:
         """
         Generates a list of Gaussian weights corresponding to the input list.
         The weights peak at the center and decrease toward the edges.
         """
         n = len(input_list)
         if n == 0:
-            return []
+            return np.array([])
             
         # 1. Create linearly spaced points centered around 0
         # Moving from -2 to 2 standard deviations captures ~95% of the curve
@@ -108,7 +108,7 @@ class DomainSampler():
         # 3. Normalize so all weights add up to 1.0 (highly recommended)
         weights /= np.sum(weights)
         
-        return weights.tolist()  
+        return weights
 
   
     def clean_text(self, text: str, stop_words = global_stop_words_set):
