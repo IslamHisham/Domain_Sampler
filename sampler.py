@@ -89,7 +89,7 @@ class DomainSampler():
 
         return math.ceil(n)
 
-    def get_gaussian_weights(self, input_list: list)->np.ndarray:
+    def get_gaussian_weights(self, input_list: list, art_num: int)->np.ndarray:
         """
         Generates a list of Gaussian weights corresponding to the input list.
         The weights peak at the center and decrease toward the edges.
@@ -108,6 +108,8 @@ class DomainSampler():
         # 3. Normalize so all weights add up to 1.0 (highly recommended)
         weights /= np.sum(weights)
         
+        # normalize weights by articles per topic relevant to the total number of articles
+        weights *= (n / art_num)
         return weights
 
   
@@ -212,5 +214,5 @@ class DomainSampler():
             analysis_df.groupby("topic")["url"]
             .apply(list)
             .reset_index(name="ordered_urls")) 
-        result_df['url_weights'] = (1/len(result_df))*result_df.ordered_urls.apply(self.get_gaussian_weights)       
+        result_df['url_gaussian_weights'] = result_df.ordered_urls.apply(lambda x: self.get_gaussian_weights(x, len(analysis_df)))       
         return [analysis_df, result_df]
