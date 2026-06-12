@@ -23776,5 +23776,6 @@ print(testing.topic_representations)
 #print(k)
 #print(type(k[0]), type(k[1]), type(k[2]))
 print(testing.topic_analysis(['www.medium.com','www.ohlala.com/general','lolo.com','www.ohlala.com/date','www.ohlala.com/new','www.kokobatta1.com','www.kokobatta2.com','www.kokobatta3.com','1','2','3'],art_list))
-print(testing.topic_analysis(['www.medium.com','www.ohlala.com/general','lolo.com','www.ohlala.com/date','www.ohlala.com/new','www.kokobatta1.com','www.kokobatta2.com','www.kokobatta3.com','1','2','3'],
-art_list,True))
+k=testing.topic_analysis(['www.medium.com','www.ohlala.com/general','lolo.com','www.ohlala.com/date','www.ohlala.com/new','www.kokobatta1.com','www.kokobatta2.com','www.kokobatta3.com','1','2','3'],
+art_list,True)
+print(k.url_gaussian_weights)
