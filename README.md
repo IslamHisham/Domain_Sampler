@@ -7,5 +7,5 @@ The project is made up of two stages:
 
 To use the domain sample clone this git repo and follow these steps:
 
-> 1. On your terminal type: pip instal -r requirements.txt
+> 1. On your terminal type: pip install -r requirements.txt
 > 2. Create a new .py file and import the DomainSampler class and use it. 
