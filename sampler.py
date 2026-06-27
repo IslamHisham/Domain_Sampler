@@ -63,6 +63,7 @@ class DomainSampler():
         try:
             self.topic_model = BERTopic.load(bert_model_path, embedding_model = self.embedding_model)
             self.topic_representations = self.topic_model.get_topic_info() #shows the representative words per topic
+            self.topic_embeddings = self.topic_model.topic_embeddings_  #embeddings ordered by the number of topic
         except:
             raise ValueError(f"BERTopic model could not be loaded from the path: {bert_model_path}. Please check the path and try again.")
     @staticmethod
@@ -216,3 +217,23 @@ class DomainSampler():
             .reset_index(name="ordered_urls")) 
         result_df['url_gaussian_weights'] = result_df.ordered_urls.apply(lambda x: self.get_gaussian_weights(x, len(analysis_df)))       
         return [analysis_df, result_df]
+    def get_topic_sim_based_on_embeddings(self, input_embeddings:np.ndarray)->np.ndarray:
+        """
+        Predicts the topics based on cosine similarity for each embedding based on the pre-trained BERTopic model.
+
+        :param input_embeddings: A list of embeddings for which to predict topics
+        :return: A list of predicted topic similarity scores corresponding to the input embeddings
+        """
+        # 1. Compute dot product between matrix and vector -> shape (10,)
+        dot_product = np.dot(self.topic_embeddings, input_embeddings)
+
+        # 2. Compute L2 norm (magnitude) of the single vector -> scalar
+        norm_vector = np.linalg.norm(input_embeddings)
+
+        # 3. Compute L2 norm of each row in the matrix -> shape (10,)
+        norm_matrix = np.linalg.norm(input_embeddings, axis=1)
+
+        # 4. Divide dot product by the product of the norms
+        cosine_sim = dot_product / (norm_vector * norm_matrix)
+
+        return cosine_sim
